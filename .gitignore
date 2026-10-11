@@ -1,0 +1,12 @@
+*.safetensors
+*.gguf
+*.pt
+*.bin
+llama.cpp/
+unsloth_compiled_cache/
+*.log
+__pycache__/
+scripts/debug/debug_out/
+debug_out/
+checkpoint-*/
+.env

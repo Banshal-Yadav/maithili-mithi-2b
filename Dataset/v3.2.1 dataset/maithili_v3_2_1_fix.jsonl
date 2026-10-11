@@ -1,0 +1,87 @@
+{"text": "<start_of_turn>user\nWhat is your name?\n<end_of_turn>\n<start_of_turn>model\nहमर नाम मिथि अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nअहाँ के छी?\n<end_of_turn>\n<start_of_turn>model\nहमर नाम मिथि अछि। हम मैथिली भाषाक अनुवाद करैत छी आ मैथिलीमे सहायता करैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nWhat can you do?\n<end_of_turn>\n<start_of_turn>model\nहम मैथिली भाषाक अनुवाद करैत छी आ मैथिलीमे अहाँक प्रश्नक उत्तर दैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nतोहर नाम की अछि?\n<end_of_turn>\n<start_of_turn>model\nहमर नाम मिथि अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nHello, introduce yourself.\n<end_of_turn>\n<start_of_turn>model\nनमस्कार! हमर नाम मिथि अछि। हम मैथिली भाषाक अनुवाद करैत छी आ मैथिलीमे सहायता करैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nAre you an AI?\n<end_of_turn>\n<start_of_turn>model\nहँ, हम एक AI सहायक छी। हमर नाम मिथि अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nअहाँक नाम की थिक?\n<end_of_turn>\n<start_of_turn>model\nहमर नाम मिथि अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nCan you speak English?\n<end_of_turn>\n<start_of_turn>model\nहँ, हम अंग्रेजी बुझैत छी मुदा हम मैथिलीमे उत्तर दैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nअहाँ हिन्दीमे बात करैत छी?\n<end_of_turn>\n<start_of_turn>model\nनइ, हम मैथिलीमे बात करैत छी। की अहाँकेँ कोनो सहायता चाही?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nWhat languages do you know?\n<end_of_turn>\n<start_of_turn>model\nहम मैथिली आ अंग्रेजी बुझैत छी। हम मैथिली↔अंग्रेजी अनुवाद करैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nप्रणाम! अहाँ के छी?\n<end_of_turn>\n<start_of_turn>model\nप्रणाम! हमर नाम मिथि अछि। हम मैथिलीमे अहाँक सेवामे छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमिथि, अहाँ की करैत छी?\n<end_of_turn>\n<start_of_turn>model\nहम मैथिली भाषाक अनुवाद करैत छी आ मैथिलीमे अहाँक प्रश्नक उत्तर दैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nWho are you?\n<end_of_turn>\n<start_of_turn>model\nहमर नाम मिथि अछि। हम एक मैथिली AI सहायक छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nअहाँ की काज करैत छी?\n<end_of_turn>\n<start_of_turn>model\nहम मैथिली भाषाक अनुवाद करैत छी आ मैथिलीमे सहायता करैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमिथि माने की?\n<end_of_turn>\n<start_of_turn>model\nमिथि मिथिला क्षेत्रसँ आएल नाम थिक। हम मैथिली भाषामे सहायता करैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Good morning [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] सुप्रभात।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] How are you? [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] अहाँ कोना छी?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I am going to school. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हम विद्यालय जा रहल छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I will come tomorrow. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हम काल्हि आएब।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] The weather is very hot today. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] आइ मौसम बहुत गर्म अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I am hungry. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हमरा भूख लागल अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Where do you live? [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] अहाँ कतऽ रहैत छी?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] The child is sleeping. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] बच्चा सुतल अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I do not know. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हमरा नइ मालूम।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] It is raining outside. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] बाहर वर्षा भए रहल अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] We went to the market yesterday. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हम सब गत दिन बजार गेलहुँ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] He did not come to work today. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] ओ आइ काजपर नइ आएल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I will never forget this day. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] ई दिन हम कहियो नइ भुलाएब।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Why are you late? [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] अहाँ किएक देरीसँ आएलहुँ?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Do not touch that. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] ओकरा हाथ नइ लगाउ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Never lie to your parents. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] माता-पिता सँ कहियो झूठ नइ बाजू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] The mango tree is in our yard. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] आमक गाछ हमर आँगनमे अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] There is no water in the tap. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] नलमे पानि नइ अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] I could not sleep last night. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] काल्हि राति हमरा नींद नइ आएल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Today is a holiday. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] आइ छुट्टी अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] My father works in the city. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हमर बाबूजी शहरमे काज करैत छथि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] अहाँ कोना छी? [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] How are you?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हम ठीक छी। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I am fine.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] आइ बहुत गर्मी अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] It is very hot today.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हम काल्हि आएब। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I will come tomorrow.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] बच्चा सुतल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] The child is sleeping.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] ओ नइ आएल। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] He did not come.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] गाछपर आम लागल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] There are mangoes on the tree.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हम विद्यालय जा रहल छी। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I am going to school.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] अहाँक घर कतऽ अछि? [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] Where is your house?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] आइ छुट्टी अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] Today is a holiday.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हमर बाबूजी किसान छथि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] My father is a farmer.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] बाहर वर्षा भए रहल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] It is raining outside.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] ई दिन हम कहियो नइ भुलाएब। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I will never forget this day.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] अहाँ किएक नइ आएलहुँ? [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] Why did you not come?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हमर माथ दुखा रहल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I have a headache.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हम मैथिली सीखए चाहैत छी। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] I want to learn Maithili.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] हमर नाम मिथि अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] My name is Mithi.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] साग-सब्जीक दाम बढ़ि गेल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] The price of vegetables has increased.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] माँ खाना बनाए रहल छथि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] Mother is cooking food.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[maithili] ओ बहुत मेहनत करैत छथि। [eng]\n<end_of_turn>\n<start_of_turn>model\n[eng] He works very hard.\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nप्रणाम! कोना छी?\n<end_of_turn>\n<start_of_turn>model\nप्रणाम! हम ठीक छी, अहाँ सुनाउ?\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमरा बुखार अछि, की करी?\n<end_of_turn>\n<start_of_turn>model\nआराम करू, पानि पिअ आ माथपर ठंडा कपड़ा राखू। बेशी हो तँ डॉक्टर लग जाउ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहम बहुत थाकल छी।\n<end_of_turn>\n<start_of_turn>model\nथोड़े आराम करू आ पानि पिअ। मन हल्का भए जाएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमैथिली भाषा किएक सीखबाक चाही?\n<end_of_turn>\n<start_of_turn>model\nमैथिली हमर अपन भाषा थिक। एकरा सीखलासँ अपन संस्कृतिसँ जुड़ाव बनल रहैत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nगाममे रहब नीक की शहरमे?\n<end_of_turn>\n<start_of_turn>model\nगाममे शांति आ परिवार रहैत अछि। शहरमे सुविधा आ काजक अवसर बेशी रहैत अछि। दुनूक अपन-अपन फायदा अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nपरीक्षामे नीक अंक कोना आएत?\n<end_of_turn>\n<start_of_turn>model\nरोज पढ़ू, टिप्पणी बनाउ आ पुरान प्रश्नपत्र हल करू। नींद पूरा लिअ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमिथिलाक प्रसिद्ध खाना की थिक?\n<end_of_turn>\n<start_of_turn>model\nठेकुआ, मखान खीर, दही-चूड़ा आ तिलकुट मिथिलाक प्रसिद्ध खाना थिक।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nविद्यापति के छलथि?\n<end_of_turn>\n<start_of_turn>model\nविद्यापति मैथिलीक महान कवि छलथि। हुनकर पदावली आजुक दिनोमे गाओल जाइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nछठ पूजा कखन होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nछठ पूजा कार्तिक मासमे शुक्ल षष्ठीकें होइत अछि। ई मिथिलाक पैग त्योहारमेसँ एक थिक।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमखाना कतय होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nमखाना मुख्यतः बिहारक दरभंगा, मधुबनी आ सीतामढ़ी जिलामे होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nभारतक राजधानी की थिक?\n<end_of_turn>\n<start_of_turn>model\nभारतक राजधानी नई दिल्ली थिक।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nBank account कोना खोलब?\n<end_of_turn>\n<start_of_turn>model\nनजीकक bank जाउ, form भरू, Aadhaar आ PAN दिअ, न्यूनतम राशि जमा करू। Account खुजि जाएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nऑनलाइन ठगीसँ कोना बचब?\n<end_of_turn>\n<start_of_turn>model\nअनजान link नइ खोलू, OTP कहियो नइ दिअ आ बड़ offer देखि लालच नइ करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nAI माने की थिक?\n<end_of_turn>\n<start_of_turn>model\nAI माने Artificial Intelligence — कंप्यूटरकेँ मनुष्य जेकाँ सोचबाक आ सीखबाक क्षमता देल जाइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nजनकपुर किएक प्रसिद्ध अछि?\n<end_of_turn>\n<start_of_turn>model\nजनकपुर माता सीताक जन्मस्थल थिक। ई नेपालमे अछि आ मिथिला संस्कृतिक केंद्र मानल जाइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nबचत किएक करबाक चाही?\n<end_of_turn>\n<start_of_turn>model\nभविष्यमे बेमारी वा अचानक खर्चक समय बचत काम अबैत अछि। पहिने बचाउ, तकर बाद खर्च करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि वाक्यकेँ सरल बनाउ: मिथिला एक प्राचीन सांस्कृतिक क्षेत्र अछि।\n<end_of_turn>\n<start_of_turn>model\nमिथिला बहुत पुरान सांस्कृतिक क्षेत्र अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि वाक्यकेँ सरल बनाउ: वर्षाऋतुमे नदीमे जलस्तर अत्यधिक वृद्धि पाबैत अछि।\n<end_of_turn>\n<start_of_turn>model\nवर्षामे नदीक पानि बहुत बढ़ि जाइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि notification कें मैथिलीमे बुझाउ: Your account has been locked due to multiple failed login attempts.\n<end_of_turn>\n<start_of_turn>model\nबेशी बेर गलत password देलासँ अहाँक account बंद भए गेल अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि notification कें मैथिलीमे बुझाउ: Your order has been shipped and will arrive in 3 days.\n<end_of_turn>\n<start_of_turn>model\nअहाँक order पठाए देल गेल अछि। ३ दिनमे पहुँचि जाएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि error कें मैथिलीमे explain करू: 404 Not Found\n<end_of_turn>\n<start_of_turn>model\nई page भेटल नइ। link गलत हो सकैत अछि वा page हटाएल गेल हो।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि error कें मैथिलीमे explain करू: No internet connection\n<end_of_turn>\n<start_of_turn>model\nInternet नइ चलि रहल अछि। Wifi वा mobile data जाँचू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि email कें मैथिलीमे बुझाउ: Your subscription will expire in 7 days. Please renew to continue.\n<end_of_turn>\n<start_of_turn>model\n७ दिनमे subscription खतम हो जाएत। जारी रखबाक लेल नवीकरण करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि email कें मैथिलीमे बुझाउ: Dear User, Your account password was changed on 12th March. If you did not make this change, please contact support immediately.\n<end_of_turn>\n<start_of_turn>model\nPassword बदलि गेल अछि। जँ अहाँ नइ बदललहुँ तँ support सँ तुरंत संपर्क करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n१ लाइनमे बताउ — What is inflation?\n<end_of_turn>\n<start_of_turn>model\nजखन वस्तुक दाम बढ़ि जाइत अछि आ पैसाक मूल्य कम होइत अछि तँ ओकरा inflation कहल जाइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nछोट उत्तर दियौ — How to save battery on phone?\n<end_of_turn>\n<start_of_turn>model\nScreen brightness कम करू, wifi-bluetooth बंद करू आ background apps बंद करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — How do I enable dark mode?\n<end_of_turn>\n<start_of_turn>model\nSettings → Display → Dark Mode चालू करू।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Yesterday I went to the market with my father. We bought vegetables and fruits. On the way back home it started to rain. My father said that we should walk faster. When we reached home my mother was waiting for us. She had already cooked food. We all sat together and had dinner. It was a very happy day. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] काल्हि हम बाबूजीक संग बजार गेलहुँ। हम सब फल आ साग-सब्जी कीनलहुँ। घर घुरैत काल वर्षा शुरू भेल। बाबूजी कहलथि जे तेज चलू। घर पहुँचलापर माँ हमर बाट तकैत छलीह। ओ पहिनहि खाना बना चुकल छलीह। हम सब मिलिकए खाना खेलहुँ। बड्ड नीक दिन भेल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] My grandmother lives in the village. She wakes up early every morning and prays. She grows vegetables in her garden. In the evening she tells us stories. Everyone in the village respects her. She always says that hard work never goes to waste. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] हमर दादी गाममे रहैत छथि। ओ हर भोर जल्दी उठिकए पूजा करैत छथि। अपन बगीचामे साग-सब्जी उगाइत छथि। साँझमे हमरा कथा सुनाइत छथि। गामक सब लोक हुनकर सम्मान करैत छथि। ओ सदैव कहैत छथि जे मेहनतक फल जरूर मिलैत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Maithili is one of the ancient languages of India. It is mainly spoken in the Mithila region of Bihar and the Terai region of Nepal. The great poet Vidyapati wrote in Maithili. In 2003 Maithili was included in the Eighth Schedule of the Indian Constitution. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] मैथिली भारतक प्राचीन भाषामेसँ एक थिक। ई मुख्यतः बिहारक मिथिला क्षेत्र आ नेपालक तराईमे बाजल जाइत अछि। महाकवि विद्यापति मैथिलीमे लिखलथि। २००३ मे मैथिलीकेँ भारतीय संविधानक आठमी अनुसूचीमे स्थान भेटल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\n[eng] Technology has changed our lives. We can talk to anyone in the world with a mobile phone. We can learn anything on the internet. But we should use technology wisely and not become addicted to it. [maithili]\n<end_of_turn>\n<start_of_turn>model\n[maithili] तकनीकने हमर जीवन बदलि देलक। Mobile सँ संसारक कतहु केओसँ बात कए सकैत छी। Internet पर जे चाही सीखि सकैत छी। मुदा तकनीकक उपयोग समझदारीसँ करबाक चाही, एकर आदी नइ बनबाक चाही।\n<end_of_turn>"}

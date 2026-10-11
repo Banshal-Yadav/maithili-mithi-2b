@@ -1,0 +1,15 @@
+FROM ./maithili-v3.2-q8_0.gguf
+
+# This template matches the "User: / Assistant:" format we trained on
+TEMPLATE """User: {{ .Prompt }}
+Assistant: """
+
+# Crucial: Stop the model from outputting raw reserved tokens
+PARAMETER stop "User:"
+PARAMETER stop "Assistant:"
+PARAMETER stop "<unk>"
+PARAMETER stop "<<"
+
+# Set the context and temperature for translation
+PARAMETER num_ctx 4096
+PARAMETER temperature 0.3

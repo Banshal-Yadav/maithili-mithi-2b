@@ -1,0 +1,122 @@
+[
+  {
+    "category": "System Alerts",
+    "name": "Google Drive storage full",
+    "prompt": "System Alert: Your Google Drive storage is 95% full. Because you are out of storage, you cannot upload new files to Drive, back up photos or videos to Google Photos. You have run out of your 15 GB initial free storage. Delete old files to recover your system.",
+    "response": "एहि alertक अर्थ अछि जे अपन ड्राइवमे बहुत राख भए गेल छी आ बादसँ नया फाइल अपलोड करबाक लेल नहि सकब। resourceCulture resourceCulture होइत अछि कि ओहिसँ तुरंत पुरा कएनाउ पड़ैत अछि।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Payment failed",
+    "prompt": "Your recent payment of ₹1500 for the premium subscription has failed due to insufficient funds. Please update your payment method or add funds to your account immediately to avoid service interruption.",
+    "response": "एहि मेलक अनुच्छेद मैथिलीमे लिखल जा सकैत अछि:\n\nअपन शुल्क प्रदाताकेँ अपन भुगतान पठौनाइ असफल भेल कारणेँ नहि भेलापर सेवा बंद हो जाएत। कृपया अपन भुगतान विधि अपडेट करू वा खातामे पैसा जोड़ू तुरंत ठीक करू जे सेवा बाधा दूर रहए।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Login error",
+    "prompt": "We detected an unusual login attempt from an unrecognized device in a different country. If this wasn't you, please reset your password immediately and enable two-factor authentication.",
+    "response": "एकटा अनजान डिवाइससँ एकटा असाधारण लॉगिन प्रयास भेल। जखन ई नहि छल तँ कृपया अपन पासववर बहाल करू आ दू तरफसँ दोषी ठहराएब।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Battery critically low",
+    "prompt": "Your device battery is severely degraded and running critically low at 5%. Please plug in your charger immediately to prevent unsaved data loss and system shutdown.",
+    "response": "आइ तुरंत चार्जरमे राखू, बैटरी बहुत कम भए गेल अछि आ डिवाइस ठीक नहि चल रहल। डेटा बर्बाद हो जाएत।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Subscription expired",
+    "prompt": "Your annual antivirus subscription has expired today. Your computer is currently vulnerable to threats. Click renew now to stay protected and get a 20% discount.",
+    "response": "एहि दिन अपन वार्षिक एंटीवायरसक सब्सक्रिप्शन खतम भेल। अहाँक कम्प्यूटर आब संकटमे छैक। सुरक्षित रहू आ टिकाउ राखबाक लेलrenew करू, दुनू मिलैत एकटा २० प्रतिशत छूट उपलब्ध अछि।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Download failed",
+    "prompt": "सिर्फ की करबाक चाही बताउ — The file download failed because the network connection was lost.",
+    "response": "File download error: Network problem occurred during download process. Try again later or check internet connectivity."
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Upload quota exceeded",
+    "prompt": "सिर्फ की करबाक चाही बताउ — You cannot upload this video. Your daily upload quota of 2GB has been exceeded. Try again tomorrow.",
+    "response": "एकरा नहि पठाउ। अहाँकेँ प्रतिदिन २जीबी अपलोड कएबाक अधिकार भए गेल अछि। काल्हि कोशिश करू।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Update required",
+    "prompt": "सूची बनाउ — A new software update is available for your phone. It includes security fixes and performance improvements. Please install it now over Wi-Fi.",
+    "response": "एहिमे सुरक्षाक समाधान आ प्रदर्शन सुधार भेल अछि। कृपया फोनपर ओ अपडेट डाउनलोड करू जेबाक चाही जाहिसँ वाईफाइकेँ इस्तेमाल कए सकब।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Account suspended",
+    "prompt": "छोट उत्तर दियौ — Your account has been temporarily suspended due to multiple failed login attempts. Contact support to verify your identity.",
+    "response": "एकरा लॉगइन करबाक लेल पासवर्ड बदलू।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Summarize and give steps",
+    "prompt": "Here is an English alert: 'Your laptop is overheating. Save your work and close heavy applications.' Summarize the issue in Maithili and provide the steps to fix it.",
+    "response": "laptopमे बिजली जाइत अछि आ ओ ठंडा नहि भए रहल अछि। काम बचाकऽ तुरंत बंद करू, लैपटॉपकेँ ठीक कएबाक चाही।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Translate and simplify",
+    "prompt": "Translate this to Maithili and make it very simple for an older person to understand: 'To enable Bluetooth, navigate to Settings, select Connections, toggle Bluetooth on, and pair your headphones.'",
+    "response": "ब्लूटूथ चालू करबाक लेल तटस्थमे जाउ, कनेक्शन पर क्लिक करू, ब्लूटूथ चालू करू आ अपन हेडफोनकेँ जोड़ू।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Explain in 1 sentence",
+    "prompt": "एहि मैसेज कें मात्र १ लाइनमे मैथिलीमे बुझाउ: 'The server is currently undergoing scheduled maintenance for 2 hours. You will not be able to access your dashboard during this time.'",
+    "response": "सर्वर आइ काल्हि दू घंटा रखरखावक समय धरि बंद अछि।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Explain in JSON format",
+    "prompt": "Please extract the key details from this text and return them in JSON format using Maithili keys and values: 'The flight AI-402 from Delhi to Patna is delayed by 45 minutes.' The keys should be: 'उड़ान', 'रूट', 'स्थिति'.",
+    "response": "```json\n{\n  \"उड़ान\": \"AI-402\",\n  \"रूट\": \"Delhi से पटना\",\n  \"स्थिति\": \"बढ़िया देलक, ४५ मिनट लेटि रहबाक आशंका।\"\n}\n```"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Greeting",
+    "prompt": "प्रणाम! अहाँक दिन कोना रहल अछि? हमरा किछु मदद चाही।",
+    "response": "बहुत नीक, धन्यवाद। की होएत छैक तँ कहू आबि जाउ।"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Short cultural question",
+    "prompt": "छोट उत्तर दियौ — मिथिला पेंटिंग की थिक आ ई किएक प्रसिद्ध अछि?",
+    "response": "मिथिलाक पेंटिंग देवीदेवी, लक्ष्मीदेवी जे लोककेँ सुरक्षा भेटैत छथि।"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Simple explanation task",
+    "prompt": "हमरा आसान भाषामे बुझाउ जे WhatsApp का उपयोग कोना कयल जाइत अछि?",
+    "response": "WhatsApp एकटा मोबाइलमे रहैवाली संदेश सेवा थिक। ओ सबसँ जुड़बाक लेल इस्तेमाल कर सकैत छी। तुरंत दूसरकेँ मैसेज पठा सकैत छी आ फोन नहि लगबए सेहो बात चलबैत अछि।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Black hole summary",
+    "prompt": "ब्लैक होल (Black Hole) की थिक? एकरा छोटमें बुझाउ।",
+    "response": "एकटा जगह जतए गुरुत्वाकर्षण बहुत बेसी मजगूत अछि आ नहि कियो चीज जेबाक बल पड़ैत अछि ओकर नाम ब्लैक होल कहल जाइत अछि। ई सबसँ दूर भए रहलापर सेहो एहिसँ पता चलैत अछि, कारण रेडिएशन भेलापर सूर्यकेँ देखाइ सकैत छी।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Explain database migration",
+    "prompt": "Here is an English concept: 'Database migration is the process of moving data from one platform to another.' Explain this concept in Maithili using a simple real-life analogy.",
+    "response": "एहि अनुवादमे कहल गेल अछि जे डेटाबेसक स्थानांतरण प्रक्रिया ओहिसँ होइत अछि जखन कम्प्यूटर आकि संगणक सँ एकरा दोसर स्थानपर जाएब।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Why backup important",
+    "prompt": "डेटा बैकअप (Data Backup) राखब किएक जरूरी अछि? ३ टा कारण बताउ।",
+    "response": "१. डिजिटल सामान बर्खा आ नुकसान भए गेल भेलापर ओहिसँ हटाओल जा सकैत अछि।\n२. गलतीसँ फेरसँ बनाओल जाएबाक लेल उपयोगी होइत अछि।\n३. समयमे अपन काम सुरक्षित रहबाक लेल आवश्यक अछि।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "What is cloud storage",
+    "prompt": "क्लाउड स्टोरेज (Cloud Storage) की थिक? ई हमरा डिवाइसक मेमोरीसँ कोना अलग अछि?",
+    "response": "ई एकटा डाटागार छी जतए अपन फोन, लैपटॉप आ कंप्यूटरमे जगह नहि लगबाक लेल क्लाउड सेवा इस्तेमाल करब। जेहन संग्रह भेल होइत अछि ओ सुरक्षित रहैत अछि। उदाहरण: Google Drive, Dropbox आदि।"
+  }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "name": "t1_simple_present",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: I am going to the market."
+    },
+    {
+        "name": "t2_past",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: She went home yesterday."
+    },
+    {
+        "name": "t3_future",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: They will come tomorrow."
+    },
+    {
+        "name": "t4_complex_sentence",
+        "category": "translation",
+        "difficulty": "medium",
+        "prompt": "Translate to Maithili: Children should respect their elders and learn from them."
+    },
+    {
+        "name": "t5_idiom",
+        "category": "translation",
+        "difficulty": "hard",
+        "prompt": "Translate contextually to Maithili: It's raining heavily."
+    },
+    {
+        "name": "mt1_basic",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to English: हमर नाम सीता अछि।"
+    },
+    {
+        "name": "mt2_daily",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to English: हम भोरे उठि काज करैत छी।"
+    },
+    {
+        "name": "mt3_complex",
+        "category": "translation",
+        "difficulty": "medium",
+        "prompt": "Translate to English: आइकाल्हि लरिका सब मोबाइलक प्रयोग बेसी करैत अछि।"
+    },
+    {
+        "name": "f1_vidyapati",
+        "category": "factual",
+        "difficulty": "easy",
+        "prompt": "विद्यापति के छथि?"
+    },
+    {
+        "name": "f2_chhath",
+        "category": "factual",
+        "difficulty": "easy",
+        "prompt": "छठ पूजा मे ककर पूजा होइत अछि?"
+    },
+    {
+        "name": "f3_language_region",
+        "category": "factual",
+        "difficulty": "medium",
+        "prompt": "मैथिली मुख्य रूप सँ कतए बाजल जाइत अछि?"
+    },
+    {
+        "name": "f4_mithila_description",
+        "category": "factual",
+        "difficulty": "medium",
+        "prompt": "मिथिला की अछि?"
+    },
+    {
+        "name": "i1_short_answer",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "मैथिली भाषाक वर्णन एक वाक्यमे करू।"
+    },
+    {
+        "name": "i2_list",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "पाँचटा फल केर नाम सूची बनाउ।"
+    },
+    {
+        "name": "i3_length_constraint",
+        "category": "instruction",
+        "difficulty": "medium",
+        "prompt": "अपन गामक विषयमे १० शब्दमे लिखू।"
+    },
+    {
+        "name": "i4_yes_no",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "की पटना भारतक राजधानी अछि? हँ या नहि मे उत्तर दियौ।"
+    },
+    {
+        "name": "i5_steps",
+        "category": "instruction",
+        "difficulty": "medium",
+        "prompt": "चाय बनबाक विधि क्रमानुसार लिखू।"
+    },
+    {
+        "name": "i6_json",
+        "category": "instruction",
+        "difficulty": "hard",
+        "prompt": "अपन परिचय JSON फार्मेटमे लिखू (नाम, गाम, पेशा)।"
+    },
+    {
+        "name": "c1_greeting",
+        "category": "conversation",
+        "difficulty": "easy",
+        "prompt": "प्रणाम! कोना छी?"
+    },
+    {
+        "name": "c2_daily",
+        "category": "conversation",
+        "difficulty": "easy",
+        "prompt": "अहाँ आइ की कए रहल छी?"
+    },
+    {
+        "name": "c3_opinion",
+        "category": "conversation",
+        "difficulty": "medium",
+        "prompt": "अहाँकें की बुझाइत अछि, मोबाइल लरिका लेल नीक अछि?"
+    },
+    {
+        "name": "c4_polite",
+        "category": "conversation",
+        "difficulty": "medium",
+        "prompt": "कृपया स्टेशन जाएबाक रस्ता बता सकैत छी?"
+    },
+    {
+        "name": "r1_simplify",
+        "category": "rewrite",
+        "difficulty": "medium",
+        "prompt": "सरल बनाउ: पर्यावरणक संरक्षण अत्यन्त आवश्यक अछि।"
+    },
+    {
+        "name": "r2_polite",
+        "category": "rewrite",
+        "difficulty": "medium",
+        "prompt": "आदरपूर्वक लिखू: ई काज अखन कए दियौ।"
+    },
+    {
+        "name": "r3_formal",
+        "category": "rewrite",
+        "difficulty": "hard",
+        "prompt": "औपचारिक रूपमे लिखू: हम आबि रहल छी।"
+    },
+    {
+        "name": "r4_grammar_fix",
+        "category": "rewrite",
+        "difficulty": "hard",
+        "prompt": "शुद्ध करू: हम काल्हि पटनवा जाएबै।"
+    },
+    {
+        "name": "s1_short",
+        "category": "summarization",
+        "difficulty": "easy",
+        "prompt": "संक्षेपमे लिखू: राम प्रतिदिन विद्यालय जाइत अछि आ समय पर काज करैत अछि।"
+    },
+    {
+        "name": "s2_paragraph",
+        "category": "summarization",
+        "difficulty": "medium",
+        "prompt": "संक्षेपमे लिखू: आइ भोर सँ लगातार बरखा भ रहल अछि आ शहरमे पानि जमि गेल अछि।"
+    },
+    {
+        "name": "s3_story",
+        "category": "summarization",
+        "difficulty": "hard",
+        "prompt": "संक्षेपमे लिखू: कौआ आ घैलाक कहानी (प्यासल कौआ)।"
+    },
+    {
+        "name": "co1_continue",
+        "category": "continuation",
+        "difficulty": "medium",
+        "prompt": "आगाँ बढ़ाउ: मिथिला एक सांस्कृतिक क्षेत्र अछि।"
+    },
+    {
+        "name": "co2_story_continue",
+        "category": "continuation",
+        "difficulty": "hard",
+        "prompt": "आगाँ बढ़ाउ: एक दिन भोरमे जखन हम उठलहुँ, तँ देखलियै जे दरवज्जा पर कोनो ठार अछि…"
+    },
+    {
+        "name": "co3_dialogue",
+        "category": "continuation",
+        "difficulty": "medium",
+        "prompt": "संवाद पूरा करू: राम: अहाँ कतय जा रहल छी? श्याम: …"
+    },
+    {
+        "name": "b1_eng_to_mai",
+        "category": "bilingual_control",
+        "difficulty": "easy",
+        "prompt": "[eng] How are you? [maithili]"
+    },
+    {
+        "name": "b2_mai_to_eng",
+        "category": "bilingual_control",
+        "difficulty": "easy",
+        "prompt": "[maithili] हम विद्यार्थी छी। [eng]"
+    },
+    {
+        "name": "b3_instruction_control",
+        "category": "bilingual_control",
+        "difficulty": "medium",
+        "prompt": "[eng] Write one sentence about a village. [maithili]"
+    },
+    {
+        "name": "b4_translation_control",
+        "category": "bilingual_control",
+        "difficulty": "medium",
+        "prompt": "[eng] The weather is very nice today. [maithili]"
+    }
+]

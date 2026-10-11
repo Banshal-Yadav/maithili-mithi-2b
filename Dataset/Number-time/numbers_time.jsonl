@@ -1,0 +1,46 @@
+{"text": "<start_of_turn>user\nएखन कतेक बजे अछि?\n<end_of_turn>\n<start_of_turn>model\nएखन तीन बजे अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nआइ कोन दिन अछि?\n<end_of_turn>\n<start_of_turn>model\nआइ सोमदिन अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nकाल्हि कोन दिन होएत?\n<end_of_turn>\n<start_of_turn>model\nकाल्हि मंगलदिन होएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nआइ बुधदिन अछि। काल्हि कोन दिन होएत?\n<end_of_turn>\n<start_of_turn>model\nकाल्हि बृहस्पतिदिन होएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nआइ शुक्रदिन अछि। परसू कोन दिन होएत?\n<end_of_turn>\n<start_of_turn>model\nपरसू रविदिन होएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nसप्ताहक सातू दिनक नाम कहू।\n<end_of_turn>\n<start_of_turn>model\nसोमदिन, मंगलदिन, बुधदिन, बृहस्पतिदिन, शुक्रदिन, शनिदिन, रविदिन।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nशनिदिन आ रविदिन छुट्टी होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nहँ, शनिदिन आ रविदिन छुट्टी होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nआइ मंगलदिन अछि। स्कूल कखन छुट्टी होएत?\n<end_of_turn>\n<start_of_turn>model\nशनिदिन आ रविदिनकेँ छुट्टी होएत।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nआइ कोन तारीख अछि?\n<end_of_turn>\n<start_of_turn>model\nआइ पनरह तारीख अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक आ दूक जोड़ कतेक होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक आ दू मिलाकए तीन होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nदस घटा चारि कतेक होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nदस घटा चारि छह होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nपाँच गुणा चारि कतेक होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nपाँच गुणा चारि बीस होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nसय भागे दस कतेक होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nसय भागे दस दस होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nभिनसर स्कूल कतेक बजे शुरू होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nभिनसर स्कूल साते बजे शुरू होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nगाड़ी कतेक बजे अबैत अछि?\n<end_of_turn>\n<start_of_turn>model\nगाड़ी साँझ छह बजे अबैत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक घंटामे कतेक मिनट होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक घंटामे साठि मिनट होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक दिनमे कतेक घंटा होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक दिनमे चौबीस घंटा होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक सप्ताहमे कतेक दिन होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक सप्ताहमे सात दिन होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक वर्षमे कतेक महीना होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक वर्षमे बारह महीना होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमैथिलीमे एक सँ दस धरि गिनती कहू।\n<end_of_turn>\n<start_of_turn>model\nएक, दू, तीन, चारि, पाँच, छह, सात, आठ, नौ, दस।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमर उमर बीस वर्ष अछि।\n<end_of_turn>\n<start_of_turn>model\nहमर उमर बीस वर्ष अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि कमरामे पाँचटा कुर्सी अछि।\n<end_of_turn>\n<start_of_turn>model\nएहि कमरामे पाँचटा कुर्सी अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहम साते बजे उठलहुँ।\n<end_of_turn>\n<start_of_turn>model\nहम साते बजे उठलहुँ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nदुकानसँ तीनटा आम कीनलहुँ।\n<end_of_turn>\n<start_of_turn>model\nदुकानसँ तीनटा आम कीनलहुँ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nकाल्हि दस बजे भेँट करब।\n<end_of_turn>\n<start_of_turn>model\nकाल्हि दस बजे भेँट करब। ठीक अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि महीनामे तीस दिन अछि?\n<end_of_turn>\n<start_of_turn>model\nहँ, एहि महीनामे तीस दिन अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nबाबूजीक उमर पचपन वर्ष अछि।\n<end_of_turn>\n<start_of_turn>model\nहँ, पचपन वर्षमे बाबूजी एखनो स्वस्थ छथि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि कपड़ाक दाम कतेक अछि?\n<end_of_turn>\n<start_of_turn>model\nएहि कपड़ाक दाम दू सय पचास रुपैया अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमर जन्म उन्नीस सय नब्बेमे भेल।\n<end_of_turn>\n<start_of_turn>model\nउन्नीस सय नब्बेमे जन्म भेल, आब पैंतीस वर्ष भेल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएक किलोमे कतेक ग्राम होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nएक किलोमे एक हजार ग्राम होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nसाढ़े तीन बजे कोना कहल जाइत अछि मैथिलीमे?\n<end_of_turn>\n<start_of_turn>model\nसाढ़े तीन बजे।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nपौने चारि बजे कोना कहल जाइत अछि?\n<end_of_turn>\n<start_of_turn>model\nपौने चारि बजे।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमर घरसँ बजार दू किलोमीटर दूर अछि।\n<end_of_turn>\n<start_of_turn>model\nदू किलोमीटर बेसी दूर नहि अछि, चलिकए जा सकैत छी।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमैथिली संविधानमे कखन जोड़ल गेल?\n<end_of_turn>\n<start_of_turn>model\nदू हजार तीनमे मैथिलीकेँ आठम अनुसूचीमे जोड़ल गेल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nबृहस्पतिदिनक बाद कोन दिन होइत अछि?\n<end_of_turn>\n<start_of_turn>model\nबृहस्पतिदिनक बाद शुक्रदिन होइत अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमर उमर बीस वर्ष अछि। मैथिलीमे कहू।\n<end_of_turn>\n<start_of_turn>model\nहमर उमर बीस वर्ष अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि कमरामे पाँचटा कुर्सी अछि। मैथिलीमे कहू।\n<end_of_turn>\n<start_of_turn>model\nएहि कमरामे पाँचटा कुर्सी अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहम सात बजे उठलहुँ। मैथिलीमे कहू।\n<end_of_turn>\n<start_of_turn>model\nहम साते बजे उठलहुँ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nदुकानपर तीनटा आम कीनलहुँ। मैथिलीमे कहू।\n<end_of_turn>\n<start_of_turn>model\nदुकानसँ तीनटा आम कीनलहुँ।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nकाल्हि दस बजे भेँट करब। मैथिलीमे कहू।\n<end_of_turn>\n<start_of_turn>model\nकाल्हि दस बजे भेँट करब।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि महीनामे तीस दिन अछि।\n<end_of_turn>\n<start_of_turn>model\nहँ, एहि महीनामे तीस दिन अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nबाबूजीक उमर पचपन वर्ष अछि।\n<end_of_turn>\n<start_of_turn>model\nहँ, बाबूजीक उमर पचपन वर्ष अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nएहि कपड़ाक दाम दू सय पचास रुपैया अछि।\n<end_of_turn>\n<start_of_turn>model\nहँ, दू सय पचास रुपैयामे नीक अछि।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nहमर जन्म उन्नीस सय नब्बेमे भेल।\n<end_of_turn>\n<start_of_turn>model\nठीक अछि, उन्नीस सय नब्बेमे जन्म भेल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nमैथिली संविधानमे दू हजार तीनमे जोड़ल गेल।\n<end_of_turn>\n<start_of_turn>model\nहँ, दू हजार तीनमे मैथिलीकेँ आठम अनुसूचीमे जोड़ल गेल।\n<end_of_turn>"}
+{"text": "<start_of_turn>user\nसाढ़े तीन बजे कोना कहल जाइत अछि?\n<end_of_turn>\n<start_of_turn>model\nसाढ़े तीन बजे।\n<end_of_turn>"}

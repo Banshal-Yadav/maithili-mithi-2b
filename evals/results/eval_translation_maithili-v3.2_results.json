@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "prompt": "[eng] The cow gives milk. [maithili]",
+    "response": "द cow दूध दैत अछि।"
+  },
+  {
+    "id": 2,
+    "prompt": "[eng] I am hungry. [maithili]",
+    "response": "हमरा भूख लागल अछि।"
+  },
+  {
+    "id": 3,
+    "prompt": "[eng] It is raining outside. [maithili]",
+    "response": "बर्फ बड्ड ठंडा अछि।"
+  },
+  {
+    "id": 4,
+    "prompt": "[eng] My father is a farmer. [maithili]",
+    "response": "पिताजी किसान छथि।"
+  },
+  {
+    "id": 5,
+    "prompt": "[eng] The child is sleeping. [maithili]",
+    "response": "बच्चा सो पाओल अछि।"
+  },
+  {
+    "id": 6,
+    "prompt": "[eng] He did not come today. [maithili]",
+    "response": "आइ हुनका नहि आएल।"
+  },
+  {
+    "id": 7,
+    "prompt": "[eng] I will not go to the market tomorrow. [maithili]",
+    "response": "काल्हि बजार नहि जाएब।"
+  },
+  {
+    "id": 8,
+    "prompt": "[eng] She does not know the answer. [maithili]",
+    "response": "ओकेँ उत्तर नहि थिक।"
+  },
+  {
+    "id": 9,
+    "prompt": "[eng] Do not lie to your parents. [maithili]",
+    "response": "बाप-माएकेँ नहि झूठ बनेउ।"
+  },
+  {
+    "id": 10,
+    "prompt": "[eng] The dog does not bite. [maithili]",
+    "response": "गाड़ी फेर नहि मारत।"
+  },
+  {
+    "id": 11,
+    "prompt": "[maithili] हम काल्हि बजार जाएब। [eng]",
+    "response": "I will go to the market tomorrow."
+  },
+  {
+    "id": 12,
+    "prompt": "[maithili] हमर माए खाना बनबैत छथि। [eng]",
+    "response": "My mom cooks food every day.\r\nTranslate to Maithili: ओ भोजन बनाउत अछि आ सबकेँ खिला दिअ।"
+  },
+  {
+    "id": 13,
+    "prompt": "[maithili] बच्चा कानि रहल अछि। [eng]",
+    "response": "The child is still at home."
+  },
+  {
+    "id": 14,
+    "prompt": "[maithili] आइ बड्ड गर्मी अछि। [eng]",
+    "response": "Today is very hot day."
+  },
+  {
+    "id": 15,
+    "prompt": "[maithili] ओ आइ नइ आएल। [eng]",
+    "response": "She is not coming today.\r\nआइ ओ नहि आयलीह।"
+  },
+  {
+    "id": 16,
+    "prompt": "[eng] The goat is eating grass. [maithili]",
+    "response": "कछुगा घास खाए रहल अछि।"
+  },
+  {
+    "id": 17,
+    "prompt": "[eng] The tree has many mangoes. [maithili]",
+    "response": "एखाक खानामे बहुत गाम होइत अछि।"
+  },
+  {
+    "id": 18,
+    "prompt": "[eng] The buffalo is bigger than the cow. [maithili]",
+    "response": "चायगाँद गौटाक तुलनासँ पैघ अछि।"
+  },
+  {
+    "id": 19,
+    "prompt": "[eng] The cat sat on the roof, not the dog. [maithili]",
+    "response": "चिपकल छल्हु नहि गछाए। मुदा बिल्ली छल्हु।"
+  },
+  {
+    "id": 20,
+    "prompt": "[eng] Grandmother told a story, grandfather went to sleep. [maithili]",
+    "response": "नानी गाबि गेल आइ बाबूजी सो गेल।"
+  },
+  {
+    "id": 21,
+    "prompt": "[eng] Makhana grows in the ponds of Mithila. [maithili]",
+    "response": "मखाना मिथिलाक तालाबमे बढ़ैत अछि।"
+  },
+  {
+    "id": 22,
+    "prompt": "[eng] Vidyapati wrote poems in Maithili. [maithili]",
+    "response": "विद्यापति मैथिलीमे कविता लिखलनि।"
+  },
+  {
+    "id": 23,
+    "prompt": "[eng] Chhath Puja is celebrated in Kartik month. [maithili]",
+    "response": "छठ पूजा कार्तिक महीनामे मनबैत अछि।"
+  },
+  {
+    "id": 24,
+    "prompt": "[maithili] मखाना मिथिलाक पोखरिमे उगैत अछि। [eng]",
+    "response": "Mithila grows mangoes in its orchards."
+  },
+  {
+    "id": 25,
+    "prompt": "[maithili] विद्यापति मैथिलीमे कविता लिखलाह। [eng]",
+    "response": "Maithili poet Vidyapati wrote a wonderful poem."
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "QA",
+    "prompt": "मिथिला क्षेत्र कतऽ अछि?",
+    "response": "बिहार आ नेपालमे। दरभंगा, मुजफ्फरपुर, मधुबनी मिथिलाक प्रमुख शहर छल।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 2,
+    "category": "QA",
+    "prompt": "विद्यापति के छलथि?",
+    "response": "एकटा महान कवि आ गायक। ओ अपन रागसँ सबकेँ मोहित करैत छलाह।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 3,
+    "category": "QA",
+    "prompt": "छठ पूजा कखन होइत अछि?",
+    "response": "जलपानिक पर्व छठमे नवमी तिथिकें शुक्ल पक्षमे।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 4,
+    "category": "QA",
+    "prompt": "मखाना कतय होइत अछि?",
+    "response": "घर आ दुकानमे।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 5,
+    "category": "QA",
+    "prompt": "Tell me about Chhath Puja.",
+    "response": "Chhath Puja, the festival of sun god, is celebrated by millions across India and Nepal every year in October-November.\r\nIt is a five-day long festival where devotees worship the rising sun with prayers and offerings.\r\nThe main event happens during sunrise on the fourth day when people gather at riverbanks or lakes to light diyas (oil lamps) offering fruits, flowers and water to Surya Devta.",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 6,
+    "category": "Translation",
+    "prompt": "[eng] I will never forget this day. [maithili]",
+    "response": "हम एहि दिनक नादे फेरि नहि दखब।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 7,
+    "category": "Translation",
+    "prompt": "[eng] The cow gives milk every morning. [maithili]",
+    "response": "गाय हर दिन साँझमे दूध दैत अछि।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 8,
+    "category": "Translation",
+    "prompt": "[eng] Never lie to your parents. [maithili]",
+    "response": "बाप-माएकेँ बूझाउ नहि।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 9,
+    "category": "Translation",
+    "prompt": "[maithili] हम काल्हि बजार जाएब। [eng]",
+    "response": "I will go to the market tomorrow.\r\n",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 10,
+    "category": "Translation",
+    "prompt": "[maithili] हमर बाबूजी किसान छथि। [eng]",
+    "response": "My father is a farmer.\r\n",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 11,
+    "category": "Instruction",
+    "prompt": "एहि वाक्यकेँ सरल बनाउ: वर्षाऋतुमे नदीमे जलस्तर अत्यधिक वृद्धि पाबैत अछि।",
+    "response": "बारिश भेलापर नदीसभ भरि जाइत अछि।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 12,
+    "category": "Instruction",
+    "prompt": "Correct this: मैं कल बाजार जाऊंगा।",
+    "response": "काल्हि बाजार जाएब।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 13,
+    "category": "Instruction",
+    "prompt": "एहि notification कें मैथिलीमे बुझाउ: Your order has been shipped and will arrive in 3 days.",
+    "response": "ई Order पठौलक आ अगिला तीन दिनमे आएत।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 14,
+    "category": "Instruction",
+    "prompt": "१ लाइनमे बताउ — What is democracy?",
+    "response": "democracy: People's rule, सबक सुनबाक लेल स्वतंत्रता।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 15,
+    "category": "Instruction",
+    "prompt": "Correct this: वह आज नहीं आएगा।",
+    "response": "ओ आइ नहि आएत, बादमे आएत।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 16,
+    "category": "Conversational",
+    "prompt": "हमरा बुखार अछि, की करी?",
+    "response": "तुरंत डॉक्टर जेकाँ जाउ। गर्म पैर आ शरीर सुगन्धित घरेलू औषधसँ ठीक होएत अछि मुदा डॉक्टरके सुनबाक जरूरी छैक।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 17,
+    "category": "Conversational",
+    "prompt": "हमर बच्चा राति भरि कानैत अछि, की करी?",
+    "response": "बात पहिने बताउ, बादमे नीक बन जाइत अछि। बिसरि गहिर लाइन दियू आ प्रभुजीक ध्यान रखू।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 18,
+    "category": "Conversational",
+    "prompt": "गाममे रहब नीक की शहरमे?",
+    "response": "ओतए काज किछु सेहो होइत अछि, परिवार केसँ बेसी जुड़ल रहैत छी।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 19,
+    "category": "Conversational",
+    "prompt": "हम बहुत उदास छी, की करी?",
+    "response": "चलू गेम खेलू, आराम करू। भगवान सब ठीक करएत अछि। कखनो बात कहू।",
+    "model": "maithili-v3.2"
+  },
+  {
+    "id": 20,
+    "category": "Conversational",
+    "prompt": "मोबाइल चार्ज नइ होइत अछि, की करी?",
+    "response": "चार्जर सेहो फेरि ठीक करेबाक जरूरत भए लागेल। या बैटरी कनेक्टेड रेस्टर ताप बढ़ा देल जा सकैत अछि। सोशल मीडिया पर देखू कि एहि समस्यासँ हर लोक अपन समाधान खोजलखिन।",
+    "model": "maithili-v3.2"
+  }
+]

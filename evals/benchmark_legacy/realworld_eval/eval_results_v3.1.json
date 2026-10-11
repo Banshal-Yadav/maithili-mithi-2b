@@ -1,0 +1,254 @@
+[
+  {
+    "name": "t1_simple_present_v2",
+    "category": "translation",
+    "difficulty": "easy",
+    "prompt": "Translate to Maithili: They are playing cricket outside.",
+    "response": "ओ काल्हि बाँटिक खेलि रहल छथि।"
+  },
+  {
+    "name": "t2_past_v2",
+    "category": "translation",
+    "difficulty": "easy",
+    "prompt": "Translate to Maithili: He bought a new car last week.",
+    "response": "ओ पछिला सप्ताह नव कार कीनलक।"
+  },
+  {
+    "name": "t3_future_v2",
+    "category": "translation",
+    "difficulty": "easy",
+    "prompt": "Translate to Maithili: The sun will shine brightly tomorrow.",
+    "response": "काल्हि सूर्य चमकबैत होएत।"
+  },
+  {
+    "name": "t4_complex_sentence_v2",
+    "category": "translation",
+    "difficulty": "medium",
+    "prompt": "Translate to Maithili: Education is the key to success, so every child should go to school.",
+    "response": "शिक्षा सफलताक कुंजी थिक तेँ हर बच्चाक लेल स्कूल जाइबाक चाही।"
+  },
+  {
+    "name": "t5_idiom_v2",
+    "category": "translation",
+    "difficulty": "hard",
+    "prompt": "Translate contextually to Maithili: Don't put all your eggs in one basket.",
+    "response": "एक गोट बकरीमे सबटा कतेक होइत अछि।"
+  },
+  {
+    "name": "mt1_basic_v2",
+    "category": "translation",
+    "difficulty": "easy",
+    "prompt": "Translate to English: हमरा भूख लागल अछि।",
+    "response": "I am hungry."
+  },
+  {
+    "name": "mt2_daily_v2",
+    "category": "translation",
+    "difficulty": "easy",
+    "prompt": "Translate to English: राम आ श्याम पानि पीबि रहल छथि।",
+    "response": "Ram and Shyam are drinking water."
+  },
+  {
+    "name": "mt3_complex_v2",
+    "category": "translation",
+    "difficulty": "medium",
+    "prompt": "Translate to English: जखन बरखा भेल तखन हम सब घरमे लुकल रही।",
+    "response": "We were at home when it rained."
+  },
+  {
+    "name": "f1_janak_v2",
+    "category": "factual",
+    "difficulty": "easy",
+    "prompt": "राजा जनक कतय के राजा छलाह?",
+    "response": "हरिपुरमे।"
+  },
+  {
+    "name": "f2_makhan_v2",
+    "category": "factual",
+    "difficulty": "easy",
+    "prompt": "मिथिलामे मखानक की महत्व अछि?",
+    "response": "मखान मिथिलाक पारंपरिक व्यंजनमे सबसँ बेसी प्रयुक्त सामग्री थिक। दही, चूड़ा आ खीर जेहन व्यंजनमे मखानक विशेष महत्त्व होइत अछि। एहिसँ बनाओल खाना बड्ड स्वादिष्ट रहैत अछि।"
+  },
+  {
+    "name": "f3_geography_v2",
+    "category": "factual",
+    "difficulty": "medium",
+    "prompt": "दरभंगा कतय स्थित अछि आ एकर की विशेषता अछि?",
+    "response": "दरभंगा बिहार राज्यक दक्षिणमे मिथिला क्षेत्रमे अवस्थित अछि। ई शहर मैथिलीक राजधानी मानल जाइत अछि। दरभंगामे बड्ड पुरान मंदिर, किला आ महल अछि जे पर्यटककेँ आकर्षित करैत अछि। एहि ठामसँ मिथिलाक पारंपरिक कला ओ वेशभूषा देखबाक चाही।"
+  },
+  {
+    "name": "f4_festival_v2",
+    "category": "factual",
+    "difficulty": "medium",
+    "prompt": "समा चकेवा पावनि की थिक?",
+    "response": "पर्वमे घरपर भाई बहिन सब मिलैत छथि। मिठाई खाएब आ गीत गाएब होइत अछि।"
+  },
+  {
+    "name": "i1_short_answer_v2",
+    "category": "instruction",
+    "difficulty": "easy",
+    "prompt": "एक वाक्यमे वर्णन करू जे पोखरि ककरा कहल जाइत अछि।",
+    "response": "पोखरी गाम आ खेतकेँ नजदीकी पानिक साधन थिक, ओकर परिसरसँ ककरा उगैत अछि।"
+  },
+  {
+    "name": "i2_list_v2",
+    "category": "instruction",
+    "difficulty": "easy",
+    "prompt": "मिथिलाक चारि टा प्रमुख पर्वक नाम लिखू।",
+    "response": "चतुर्दशी, दीपावली, होली आ नवरात्री।"
+  },
+  {
+    "name": "i3_length_constraint_v2",
+    "category": "instruction",
+    "difficulty": "medium",
+    "prompt": "अपन प्रिय मित्रक विषयमे १५ शब्दमे लिखू।",
+    "response": "हमर प्रिय मित्र मिथिला विश्वविद्यालयसँ छथि, हमरा सबकेँ नीक लगैत अछि ओकर सलाह आ मार्गदर्शन। एखनो एक दोस्ती बनल जे जीवन भर धरि चलएत।"
+  },
+  {
+    "name": "i4_yes_no_v2",
+    "category": "instruction",
+    "difficulty": "easy",
+    "prompt": "की आम ग्रीष्म ऋतुक फल अछि? हँ या नहि मे उत्तर दियौ।",
+    "response": "हँ, एखन धरि गरमीमे आबैत छैक मुदा अगिला महीनासँ फेर कटल जाइत होएत।"
+  },
+  {
+    "name": "i5_steps_v2",
+    "category": "instruction",
+    "difficulty": "medium",
+    "prompt": "चुरा-दही खेबाक विधि क्रमानुसार लिखू।",
+    "response": "१. दही बड्ड ठंडा राखि एकटा पातमे घसल जाइत अछि।\n२. चाउरकेँ धोए आ ओकर दूब निकालि देरी करी बादेँ गर्म पानीमे भूनिकए मिलाओल जाइत अछि।\n३. गरम चाउरमे हल्ला तरल दही मिल जाएत, तुरंत छान लए फेर उठाइ दही भरिकेँ ढक्का लगाउ।\n४. दिनभरि रहितहिसँ दही खट्टा होइत अछि।"
+  },
+  {
+    "name": "i6_json_v2",
+    "category": "instruction",
+    "difficulty": "hard",
+    "prompt": "अपन जानकारी JSON फार्मेटमे लिखू (नाम, उमर, शहर)।",
+    "response": "{\n  \"नाम\": \"मिथिला\",\n  \"उमर\": 30,\n  \"शहर\": \"बिहारक दरभंगामे।\"\n}"
+  },
+  {
+    "name": "c1_greeting_v2",
+    "category": "conversation",
+    "difficulty": "easy",
+    "prompt": "नमस्ते! कतय जा रहल छी?",
+    "response": "नमस्कार, हम किराना मॉल जाएब। अहाँ कोनेमे आएब?"
+  },
+  {
+    "name": "c2_daily_v2",
+    "category": "conversation",
+    "difficulty": "easy",
+    "prompt": "आइ रातिमे की बनल अछि?",
+    "response": "रातिमे नींद गेल। सुबह जल्दी उठलहुँ, ठंडा साँझ भेटलाह।"
+  },
+  {
+    "name": "c3_opinion_v2",
+    "category": "conversation",
+    "difficulty": "medium",
+    "prompt": "अहाँकें की लागैत अछि, गामक जीवन नीक या शहरक?",
+    "response": "गाममे सब मिलिकए रहैत छी आ परिवार बड्ड करीब होइत अछि। घर सेहो छोट होइत अछि मुदा खुशी बेसी बढ़िया होइत अछि।"
+  },
+  {
+    "name": "c4_polite_v2",
+    "category": "conversation",
+    "difficulty": "medium",
+    "prompt": "कृपया हमरा एक गिलास पानि दियौ।",
+    "response": "हँ, ठीक करू। नीक होएत अछि जखन गरम गर्मीमे पानि पील जाइत अछि।"
+  },
+  {
+    "name": "r1_simplify_v2",
+    "category": "rewrite",
+    "difficulty": "medium",
+    "prompt": "सरल बनाउ: स्वास्थ्यक दृष्टिकोणसँ प्रतिदिन व्यायाम करब नितान्त आवश्यक अछि।",
+    "response": "स्वास्थ्यक लेल दैनिक व्यायाम जरूरी अछि।"
+  },
+  {
+    "name": "r2_polite_v2",
+    "category": "rewrite",
+    "difficulty": "medium",
+    "prompt": "आदरपूर्वक लिखू: चुप चाप बैसू।",
+    "response": "चुपसँ रहब, आनको नहि सुनबा।"
+  },
+  {
+    "name": "r3_formal_v2",
+    "category": "rewrite",
+    "difficulty": "hard",
+    "prompt": "औपचारिक रूपमे लिखू: हम काज नहि करब।",
+    "response": "हम ठीकसँ काज नहि कए सकैत छी।"
+  },
+  {
+    "name": "r4_grammar_fix_v2",
+    "category": "rewrite",
+    "difficulty": "hard",
+    "prompt": "शुद्ध करू: हमरा आम बहुत निमन लगैत छैं।",
+    "response": "हमर आम सबसँ बेसी पसंद अछि।"
+  },
+  {
+    "name": "s1_short_v2",
+    "category": "summarization",
+    "difficulty": "easy",
+    "prompt": "संक्षेपमे लिखू: किसान भोरहि उठि खेत जाइत छथि, दिन भरि मेहनत करैत छथि आ साँझमे घर आबैत छथि।",
+    "response": "किसान हरदिन खेतीसँ जुड़ल रहैत अछि।"
+  },
+  {
+    "name": "s2_paragraph_v2",
+    "category": "summarization",
+    "difficulty": "medium",
+    "prompt": "संक्षेपमे लिखू: मिथिलाक लोकगीत बहुत मधुर होइत अछि। ई गीतसभ परब-तिहार, विवाह आ मुण्डन जकाँ अवसर पर गाओल जाइत अछि।",
+    "response": "मिथिलाक लोकगीतपरब-तिहार, विवाह आ मुण्डन जेकाँ अवसर पर गाओल जाइत अछि। एहिसँ सांस्कृतिक धरोहर बचेबाक लेल महत्त्वपूर्ण अछि।"
+  },
+  {
+    "name": "s3_story_v2",
+    "category": "summarization",
+    "difficulty": "hard",
+    "prompt": "संक्षेपमे लिखू: खरगोश आ कछुआक कहानी।",
+    "response": "खरगोश बड्ड तेज चलैत अछि मुदा कछुआ धीरे-धीरे गंतव्य पर पहुँचैत अछि। एहिमे ई दर्शाओल जाइत अछि जे धैर्य सबसँ पैघ गुण थिक।"
+  },
+  {
+    "name": "co1_continue_v2",
+    "category": "continuation",
+    "difficulty": "medium",
+    "prompt": "आगाँ बढ़ाउ: जखन हम बजार पहुँचलहुँ तँ देखलियै...",
+    "response": "जखन हम बजार आएब तखन देखि सकैत छी।"
+  },
+  {
+    "name": "co2_story_continue_v2",
+    "category": "continuation",
+    "difficulty": "hard",
+    "prompt": "आगाँ बढ़ाउ: एकटा बहुत पुरान गाछ छल, जतय बहुत रास चिड़ै...",
+    "response": "आगाँ बढ़ाउ: एकटा बहुत पुरान गाछ छल, जतए बहुत रास चित्तापती चिड़ैया सब बेसी बड्ड नीक गीत गाबैत छलीह।"
+  },
+  {
+    "name": "co3_dialogue_v2",
+    "category": "continuation",
+    "difficulty": "medium",
+    "prompt": "संवाद पूरा करू: मोहन: की हाल अछि? सोहन: …",
+    "response": "मोहन: किएक नहि चलल, आइ काल्हि छुट्टी अछि। सोहन: ठीक अछि, बस थोड़े परेशानी भेल।"
+  },
+  {
+    "name": "b1_eng_to_mai_v2",
+    "category": "bilingual_control",
+    "difficulty": "easy",
+    "prompt": "[eng] Where are you from? [maithili]",
+    "response": "अहाँ कतएसँ छी?"
+  },
+  {
+    "name": "b2_mai_to_eng_v2",
+    "category": "bilingual_control",
+    "difficulty": "easy",
+    "prompt": "[maithili] हम बाजार जा रहल छी। [eng]",
+    "response": "I am going to the market."
+  },
+  {
+    "name": "b3_instruction_control_v2",
+    "category": "bilingual_control",
+    "difficulty": "medium",
+    "prompt": "[eng] Write one sentence about a book. [maithili]",
+    "response": "एकटा पुस्तकमे कतेको कहानी, अनुच्छेद आ चित्र होइत अछि।"
+  },
+  {
+    "name": "b4_translation_control_v2",
+    "category": "bilingual_control",
+    "difficulty": "medium",
+    "prompt": "[eng] I like reading novels. [maithili]",
+    "response": "हम पोथी पढ़बाक प्रिय छी।"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "QA",
+    "prompt": "मिथिला क्षेत्र कतऽ अछि?",
+    "response": "मिथिलाकें मिथिला मण्डल कहल जाइत अछि। ई उत्तर-पश्चिममे उत्तर भारतसँ अलग होइत अछि। अहाँ जे मिथिलेवा सँ बात करै छी से, ओ मिथिला क्षेत्रक एकटा इलाका थिक।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 2,
+    "category": "QA",
+    "prompt": "विद्यापति के छलथि?",
+    "response": "की नै, विद्यापति मिथिलाक प्रसिद्ध कवि थिक। हिनकर कविता सब पुरस्कार जीतलाह आ आजुक काल्हि सेहो हुनका लोकप्रिय अछि। ओ नेपालमे जन्मल छलाह।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 3,
+    "category": "QA",
+    "prompt": "छठ पूजा कखन होइत अछि?",
+    "response": "चैत्र शुक्ल पक्षक एकादशी दिन।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 4,
+    "category": "QA",
+    "prompt": "मखाना कतय होइत अछि?",
+    "response": "हमरा मखाना मिठाईमे बनाओल जाइत अछि। हमर मन में मखाना रहैत अछि।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 5,
+    "category": "QA",
+    "prompt": "Tell me about Chhath Puja.",
+    "response": "चट्टह पर्व नवरात्रिमे चारि दिनक होइत अछि। एकर मुख्य देवी मायावती मानल जाइत अछि। ई पर्व गंगा तीर्थ आ नदीपर बड्ड प्रसन्न भए रहैत छथि। पुरान समयमे सबकेँ सफेद दुपट्टा पहिरबाक परंपरा थिक।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 6,
+    "category": "Translation",
+    "prompt": "[eng] I will never forget this day. [maithili]",
+    "response": "हम ई दिन हमर सबसँ फेर नइ भेल।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 7,
+    "category": "Translation",
+    "prompt": "[eng] The cow gives milk every morning. [maithili]",
+    "response": "गाय हर दिन भोरमे दूध देताह।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 8,
+    "category": "Translation",
+    "prompt": "[eng] Never lie to your parents. [maithili]",
+    "response": "अपन माँ-बापक सच्चाई नइ तौ।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 9,
+    "category": "Translation",
+    "prompt": "[maithili] हम काल्हि बजार जाएब। [eng]",
+    "response": "I will go to the market tomorrow.\r\n",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 10,
+    "category": "Translation",
+    "prompt": "[maithili] हमर बाबूजी किसान छथि। [eng]",
+    "response": "My dad is a farmer.\r\n",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 11,
+    "category": "Instruction",
+    "prompt": "एहि वाक्यकेँ सरल बनाउ: वर्षाऋतुमे नदीमे जलस्तर अत्यधिक वृद्धि पाबैत अछि।",
+    "response": "काल्पनगरमे बारिश भेल, तैं पानिक स्तर बड्ड बढ़ि गेल।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 12,
+    "category": "Instruction",
+    "prompt": "Correct this: मैं कल बाजार जाऊंगा।",
+    "response": "हम काल्हि बाजार जाएब।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 13,
+    "category": "Instruction",
+    "prompt": "एहि notification कें मैथिलीमे बुझाउ: Your order has been shipped and will arrive in 3 days.",
+    "response": "अहाँक ऑर्डर भिनसल अछि आ तीन दिन धरि आएत।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 14,
+    "category": "Instruction",
+    "prompt": "१ लाइनमे बताउ — What is democracy?",
+    "response": "राजनीतिक लोकक शासन।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 15,
+    "category": "Instruction",
+    "prompt": "Correct this: वह आज नहीं आएगा।",
+    "response": "ओ आइ नहि आएत।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 16,
+    "category": "Conversational",
+    "prompt": "हमरा बुखार अछि, की करी?",
+    "response": "अहाँ कम करू। पानि पीब किंवा गर्म चाय खाइ। ठंडा जगह जाउ। आराम करू।\n",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 17,
+    "category": "Conversational",
+    "prompt": "हमर बच्चा राति भरि कानैत अछि, की करी?",
+    "response": "काल्हि जाउ आ खास नीक सूनू। हमरा लगैत अछि जे ओ सोचैत छथि कि हम निराश नइ भेल।\n",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 18,
+    "category": "Conversational",
+    "prompt": "गाममे रहब नीक की शहरमे?",
+    "response": "हमरा कतई कहू कि जहाँ खेत अछि तँ स्वर्ग अछि। गाममे जीवन सरल आ सुखी होइत अछि।",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 19,
+    "category": "Conversational",
+    "prompt": "हम बहुत उदास छी, की करी?",
+    "response": "कोनो बात नहि। हमरा बताउ।\n",
+    "model": "maithili-v3.2.2"
+  },
+  {
+    "id": 20,
+    "category": "Conversational",
+    "prompt": "मोबाइल चार्ज नइ होइत अछि, की करी?",
+    "response": "अहाँक फोन पर बिजली कनेन किएक नइ जा रहल अछि।",
+    "model": "maithili-v3.2.2"
+  }
+]

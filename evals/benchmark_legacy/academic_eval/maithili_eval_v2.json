@@ -1,0 +1,218 @@
+[
+    {
+        "name": "t1_simple_present_v2",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: They are playing cricket outside."
+    },
+    {
+        "name": "t2_past_v2",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: He bought a new car last week."
+    },
+    {
+        "name": "t3_future_v2",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to Maithili: The sun will shine brightly tomorrow."
+    },
+    {
+        "name": "t4_complex_sentence_v2",
+        "category": "translation",
+        "difficulty": "medium",
+        "prompt": "Translate to Maithili: Education is the key to success, so every child should go to school."
+    },
+    {
+        "name": "t5_idiom_v2",
+        "category": "translation",
+        "difficulty": "hard",
+        "prompt": "Translate contextually to Maithili: Don't put all your eggs in one basket."
+    },
+    {
+        "name": "mt1_basic_v2",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to English: हमरा भूख लागल अछि।"
+    },
+    {
+        "name": "mt2_daily_v2",
+        "category": "translation",
+        "difficulty": "easy",
+        "prompt": "Translate to English: राम आ श्याम पानि पीबि रहल छथि।"
+    },
+    {
+        "name": "mt3_complex_v2",
+        "category": "translation",
+        "difficulty": "medium",
+        "prompt": "Translate to English: जखन बरखा भेल तखन हम सब घरमे लुकल रही।"
+    },
+    {
+        "name": "f1_janak_v2",
+        "category": "factual",
+        "difficulty": "easy",
+        "prompt": "राजा जनक कतय के राजा छलाह?"
+    },
+    {
+        "name": "f2_makhan_v2",
+        "category": "factual",
+        "difficulty": "easy",
+        "prompt": "मिथिलामे मखानक की महत्व अछि?"
+    },
+    {
+        "name": "f3_geography_v2",
+        "category": "factual",
+        "difficulty": "medium",
+        "prompt": "दरभंगा कतय स्थित अछि आ एकर की विशेषता अछि?"
+    },
+    {
+        "name": "f4_festival_v2",
+        "category": "factual",
+        "difficulty": "medium",
+        "prompt": "समा चकेवा पावनि की थिक?"
+    },
+    {
+        "name": "i1_short_answer_v2",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "एक वाक्यमे वर्णन करू जे पोखरि ककरा कहल जाइत अछि।"
+    },
+    {
+        "name": "i2_list_v2",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "मिथिलाक चारि टा प्रमुख पर्वक नाम लिखू।"
+    },
+    {
+        "name": "i3_length_constraint_v2",
+        "category": "instruction",
+        "difficulty": "medium",
+        "prompt": "अपन प्रिय मित्रक विषयमे १५ शब्दमे लिखू।"
+    },
+    {
+        "name": "i4_yes_no_v2",
+        "category": "instruction",
+        "difficulty": "easy",
+        "prompt": "की आम ग्रीष्म ऋतुक फल अछि? हँ या नहि मे उत्तर दियौ।"
+    },
+    {
+        "name": "i5_steps_v2",
+        "category": "instruction",
+        "difficulty": "medium",
+        "prompt": "चुरा-दही खेबाक विधि क्रमानुसार लिखू।"
+    },
+    {
+        "name": "i6_json_v2",
+        "category": "instruction",
+        "difficulty": "hard",
+        "prompt": "अपन जानकारी JSON फार्मेटमे लिखू (नाम, उमर, शहर)।"
+    },
+    {
+        "name": "c1_greeting_v2",
+        "category": "conversation",
+        "difficulty": "easy",
+        "prompt": "नमस्ते! कतय जा रहल छी?"
+    },
+    {
+        "name": "c2_daily_v2",
+        "category": "conversation",
+        "difficulty": "easy",
+        "prompt": "आइ रातिमे की बनल अछि?"
+    },
+    {
+        "name": "c3_opinion_v2",
+        "category": "conversation",
+        "difficulty": "medium",
+        "prompt": "अहाँकें की लागैत अछि, गामक जीवन नीक या शहरक?"
+    },
+    {
+        "name": "c4_polite_v2",
+        "category": "conversation",
+        "difficulty": "medium",
+        "prompt": "कृपया हमरा एक गिलास पानि दियौ।"
+    },
+    {
+        "name": "r1_simplify_v2",
+        "category": "rewrite",
+        "difficulty": "medium",
+        "prompt": "सरल बनाउ: स्वास्थ्यक दृष्टिकोणसँ प्रतिदिन व्यायाम करब नितान्त आवश्यक अछि।"
+    },
+    {
+        "name": "r2_polite_v2",
+        "category": "rewrite",
+        "difficulty": "medium",
+        "prompt": "आदरपूर्वक लिखू: चुप चाप बैसू।"
+    },
+    {
+        "name": "r3_formal_v2",
+        "category": "rewrite",
+        "difficulty": "hard",
+        "prompt": "औपचारिक रूपमे लिखू: हम काज नहि करब।"
+    },
+    {
+        "name": "r4_grammar_fix_v2",
+        "category": "rewrite",
+        "difficulty": "hard",
+        "prompt": "शुद्ध करू: हमरा आम बहुत निमन लगैत छैं।"
+    },
+    {
+        "name": "s1_short_v2",
+        "category": "summarization",
+        "difficulty": "easy",
+        "prompt": "संक्षेपमे लिखू: किसान भोरहि उठि खेत जाइत छथि, दिन भरि मेहनत करैत छथि आ साँझमे घर आबैत छथि।"
+    },
+    {
+        "name": "s2_paragraph_v2",
+        "category": "summarization",
+        "difficulty": "medium",
+        "prompt": "संक्षेपमे लिखू: मिथिलाक लोकगीत बहुत मधुर होइत अछि। ई गीतसभ परब-तिहार, विवाह आ मुण्डन जकाँ अवसर पर गाओल जाइत अछि।"
+    },
+    {
+        "name": "s3_story_v2",
+        "category": "summarization",
+        "difficulty": "hard",
+        "prompt": "संक्षेपमे लिखू: खरगोश आ कछुआक कहानी।"
+    },
+    {
+        "name": "co1_continue_v2",
+        "category": "continuation",
+        "difficulty": "medium",
+        "prompt": "आगाँ बढ़ाउ: जखन हम बजार पहुँचलहुँ तँ देखलियै..."
+    },
+    {
+        "name": "co2_story_continue_v2",
+        "category": "continuation",
+        "difficulty": "hard",
+        "prompt": "आगाँ बढ़ाउ: एकटा बहुत पुरान गाछ छल, जतय बहुत रास चिड़ै..."
+    },
+    {
+        "name": "co3_dialogue_v2",
+        "category": "continuation",
+        "difficulty": "medium",
+        "prompt": "संवाद पूरा करू: मोहन: की हाल अछि? सोहन: …"
+    },
+    {
+        "name": "b1_eng_to_mai_v2",
+        "category": "bilingual_control",
+        "difficulty": "easy",
+        "prompt": "[eng] Where are you from? [maithili]"
+    },
+    {
+        "name": "b2_mai_to_eng_v2",
+        "category": "bilingual_control",
+        "difficulty": "easy",
+        "prompt": "[maithili] हम बाजार जा रहल छी। [eng]"
+    },
+    {
+        "name": "b3_instruction_control_v2",
+        "category": "bilingual_control",
+        "difficulty": "medium",
+        "prompt": "[eng] Write one sentence about a book. [maithili]"
+    },
+    {
+        "name": "b4_translation_control_v2",
+        "category": "bilingual_control",
+        "difficulty": "medium",
+        "prompt": "[eng] I like reading novels. [maithili]"
+    }
+]

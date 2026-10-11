@@ -1,0 +1,122 @@
+[
+  {
+    "category": "System Alerts",
+    "name": "Google Drive storage full",
+    "prompt": "System Alert: Your Google Drive storage is 95% full. Because you are out of storage, you cannot upload new files to Drive, back up photos or videos to Google Photos. You have run out of your 15 GB initial free storage. Delete old files to recover your system.",
+    "response": "एहि मैथिलीकेँ अंग्रेजीमे अनुवाद करू:\nप्रणालीक अलर्ट: अहाँक गूगल ड्राइव स्टोरेज ९५% भरिक पूर्ण छैक। कारण अहाँ स्टोरेज बेरासँ बाहर छी तेँ अहाँ ड्राइवमे नव फाइल सभकेँ अपलोड नहि कऽ सकैत छी , Google Photosमे शॉट्स आ विडिओ सभकेँ बैकअप सेहो नहि कऽ सकैत छी । अहाँ अपन १५ जीबी आरम्भिक मुफ्त स्टोरेज खतम कऽ चुकल छी।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Payment failed",
+    "prompt": "Your recent payment of ₹1500 for the premium subscription has failed due to insufficient funds. Please update your payment method or add funds to your account immediately to avoid service interruption.",
+    "response": "एहि अंग्रेजी वाक्यकेँ मैथिलीमे अनुवाद करू:\nअपन बीमा प्रीमियम सदस्यता लेल अहाँक पहिनुक १५ सय रुपैया चुकाबामे कोनो वित्तीय नसन्निक सङ्ग पछिला कटौतीकेँ असफल भेलैक कारण ई अपन चक्रवृद्धि रोकऽ मे उपयोग सेवाकेँ अवरुद्ध करेबाक हेतु अहाँ अपन भुगतान विधिकेँ नव बनाउ वा अपन खातामे तुरत धन जोड़ि सकैत छी।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Login error",
+    "prompt": "We detected an unusual login attempt from an unrecognized device in a different country. If this wasn't you, please reset your password immediately and enable two-factor authentication.",
+    "response": "हम एकटा अनजान डिवाइससँ दोसर देशसँ एकटा असाधित साइन इन प्रयासक पता लगाओलहुँ। जँ ई अहाँ नहि छल तँ कृपया तुरत अपन पासववरकेँ बन्द कराdieu आ दू चक्रावर्त प्रमाणीकरण चालू कऽ दियौ।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Battery critically low",
+    "prompt": "Your device battery is severely degraded and running critically low at 5%. Please plug in your charger immediately to prevent unsaved data loss and system shutdown.",
+    "response": "अपन डिवाइस बैटरीमे बहुत कम चार्ज भऽ गेल अछि आ मात्र ५% धरि बचल अछि। कृपया अपन चार्जरकेँ तुरन्त घुमाय कऽ ओकरा नष्ट हेबाक रक्षा करबत आओर प्रणालीकेँ निष्क्रिय करेबाक रोक लेबत।"
+  },
+  {
+    "category": "System Alerts",
+    "name": "Subscription expired",
+    "prompt": "Your annual antivirus subscription has expired today. Your computer is currently vulnerable to threats. Click renew now to stay protected and get a 20% discount.",
+    "response": "अहाँक वार्षिक एंटीवायरससँ अधिकार पत्र आब समाप्त भऽ गेल अछि। अहाँक लैपटॉप आब जोखिमित छैक। कृपया सुरक्षित रहू आ २०% छूट प्राप्त करबा लेल अपन पुनः अनुबन्धन करू।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Download failed",
+    "prompt": "सिर्फ की करबाक चाही बताउ — The file download failed because the network connection was lost.",
+    "response": "एहि अंग्रेजी वाक्य मैथिलीमे बदलू:\nजँ नेटवर्क कनेक्शन बर्खासँ टूटि गेल तऽ दस्तावेज डाउनलोड प्रकृया विफल भेल।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Upload quota exceeded",
+    "prompt": "सिर्फ की करबाक चाही बताउ — You cannot upload this video. Your daily upload quota of 2GB has been exceeded. Try again tomorrow.",
+    "response": "अहाँ एहि विडिओ नहि अपलोड कऽ सकैत छी। अहाँक डेली अयलावक सीमा २जीबी बेसी छैक । काल्हि कोशिश करब।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Update required",
+    "prompt": "सूची बनाउ — A new software update is available for your phone. It includes security fixes and performance improvements. Please install it now over Wi-Fi.",
+    "response": "एहि वाक्यक अर्थ अछि: एकटा नव प्रोग्राम डाउनलोड होयब जा सकैत अछि जे अहाँक फोन पर उपलब्ध छैक । ई सुरक्षाक समाधान आ प्रदर्शनकेँ सुधार करैत अछि। कृपया अपन फोन पर एहि कोनो समय वाई-आइ मध्यमसँ स्थापित कऽ लेब।"
+  },
+  {
+    "category": "Technical Vocabulary",
+    "name": "Account suspended",
+    "prompt": "छोट उत्तर दियौ — Your account has been temporarily suspended due to multiple failed login attempts. Contact support to verify your identity.",
+    "response": "ई अंग्रेजी वाक्य मैथिलीमे बदलू:\nबहुतेक प्रयास पर आधारित अहाँक पासपोर्ट अस्थायी रूपसँ हटाओल गेल अछि। आपूर्तिक व्यक्तिसभसँ पहचानकेँ सत्यापित करबाक लेल सम्पर्क करब।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Summarize and give steps",
+    "prompt": "Here is an English alert: 'Your laptop is overheating. Save your work and close heavy applications.' Summarize the issue in Maithili and provide the steps to fix it.",
+    "response": "अपन काज बचायलक आ भारी अनुप्रयोग सभ केँ बन्द कऽ लैत। अहाँ अपन लैपटॉप पर तापमान बढ़ि रहल छैक ।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Translate and simplify",
+    "prompt": "Translate this to Maithili and make it very simple for an older person to understand: 'To enable Bluetooth, navigate to Settings, select Connections, toggle Bluetooth on, and pair your headphones.'",
+    "response": "एकरा लेल ब्लूटूथ सक्षम कऽ देब, तथ्ये गठन करबा ,सौजन्य आगत करे , ब्लूटूथकेँ चालू कऽ दिय आ अपन हेडफोनक जोड़ ताकि।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Explain in 1 sentence",
+    "prompt": "एहि मैसेज कें मात्र १ लाइनमे मैथिलीमे बुझाउ: 'The server is currently undergoing scheduled maintenance for 2 hours. You will not be able to access your dashboard during this time.'",
+    "response": "एतब वर्च्युअल रखरखावक कारण अहाँ अपन प्लेडैश बोर्ड पर इन्तजार मे नहि रहत।"
+  },
+  {
+    "category": "Mixed Instructions",
+    "name": "Explain in JSON format",
+    "prompt": "Please extract the key details from this text and return them in JSON format using Maithili keys and values: 'The flight AI-402 from Delhi to Patna is delayed by 45 minutes.' The keys should be: 'उड़ान', 'रूट', 'स्थिति'.",
+    "response": "{\n\"उड़ान\": \"AI-402\",\n\"रूट\": \"Delhi सँ Patna\",\n\"स्थिति\": \"45 मिनटक लेल देरी\"\n}"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Greeting",
+    "prompt": "प्रणाम! अहाँक दिन कोना रहल अछि? हमरा किछु मदद चाही।",
+    "response": "प्रणाम! हमर दिन नीक छल, आब धरि । की अहाँकेँ कनेक रास काज अछि ? हमरा कहू जे हम अहाँक मदति कऽ सकैत छी।"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Short cultural question",
+    "prompt": "छोट उत्तर दियौ — मिथिला पेंटिंग की थिक आ ई किएक प्रसिद्ध अछि?",
+    "response": "छोट उत्तर दियौ — मिथिला पेंटिंग एकटा लोकप्रिय भारतीय चित्रकला छी । एहो सभ देखु"
+  },
+  {
+    "category": "Normal Conversation",
+    "name": "Simple explanation task",
+    "prompt": "हमरा आसान भाषामे बुझाउ जे WhatsApp का उपयोग कोना कयल जाइत अछि?",
+    "response": "WhatsApp एकटा मोबाइल फोनमे प्रयोग होएवला सञ्चार सेवा छी । ई संयुक्त राज्य अमेरिकाक ग्लोबल वॉइस प्रोटोकॉल (GVP) द्वारा विकसित आ प्रशासन करैत अछि । एहिमे मेल, टेक्स्ट, चित्र, वीडियो तथा अन्य प्रकारक सामग्रीकेँ साझा कऽ सकैत अछि । इतिहास \nवाट्सएपक स्थापना २००९ मे स्मार्टफोन उपकरण निर्माता गूगलद्वारा केल गेल छल । पहिल बेर वाट्सएप अप्रैल २४,२०१३ मे विश्व भरिमे उपलब्ध करौने छल । फरवरी १५,२०१४ धरि ३.७ करोड व्यक्तिसभ ओकर अनुप्रयोग डाउनलोड केलक आर ६ करोड़सँ बेसी व्यक्ति ओकर प्रयोग करैत अछि । वर्तमान समयमे वाट्सएप लगभग ४.५ करोड व्यक्तिसभद्वारा प्रयोग कएल जाएत अछि ।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Black hole summary",
+    "prompt": "ब्लैक होल (Black Hole) की थिक? एकरा छोटमें बुझाउ।",
+    "response": "एक ब्ल्याक होल या भूरी छिद्र, जकर आकार सामान्यतः सौर मण्डलमे लगभग ७० लाख किलोमीटर व्यास रहैत अछि । ई स्थान पर गुरुत्वाकर्षण बल तीव्रतामे बढ़ैत अछि जे कुनो वस्तुकेँ अपरिपक करैत अछि । एहि प्रकारे ओही वस्तुकेँ समय-समयमे विखण्डित केनए अछि । इतिहास\nचित्र दीर्घा"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Explain database migration",
+    "prompt": "Here is an English concept: 'Database migration is the process of moving data from one platform to another.' Explain this concept in Maithili using a simple real-life analogy.",
+    "response": "बेस डेटा स्थानान्तरण सं प्रक्रिया होयत अछि जकरा ओहि लेल परिभाषित कयल जायत अछि जे वा प्रणाली सँ आन गेलैक।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "Why backup important",
+    "prompt": "डेटा बैकअप (Data Backup) राखब किएक जरूरी अछि? ३ टा कारण बताउ।",
+    "response": "डेटा बैकअप महत्वपूर्ण छैक तँ ई निम्न कारणसभ सँ होइत अछि:\n१. डिजिटल उपकरण आ हार्ड डिस्कमे भऽ सकैवला त्रुटि, विनाशकारी कोनो बाहरी कारक जेहन क्षति या गलतीसभ कs बचाव करबा लेल आवश्यक अछि । उदाहरण- नेटवर्किंग मञ्च पर अपन डेटाकेँ सुरक्षित रखवाक हेतु एकरा नियमित रूपेँ बैकअप बनाए रखबाक चाही ।\n२. संगणक चल्तीमा नष्ट भेलासँ ओकर पुनः स्थापना वा बहाल केनाय संभव होईत अछि । उदाहरण - एहि स्थिति मे सेहो डेटा बैकअपक उपयोग करि संगणक चालु सेवा उपलब्ध कराउने छैक ।\n३. व्यक्तिगत स्तर पर दस्तावेज तथा अन्य मूल्यवान सामग्रीक सुरक्षा करवाक लेल आवश्यकता अछि । उदाहरण - घरपर रहल व्यक्ति द्वारा अपन व्यक्तिगत डेटा जकाँ पासपोर्ट, आधार कार्ड आदिक प्रतिलिपि बनेनाए रखनाए अनिवार्य अछि ।"
+  },
+  {
+    "category": "General Knowledge",
+    "name": "What is cloud storage",
+    "prompt": "क्लाउड स्टोरेज (Cloud Storage) की थिक? ई हमरा डिवाइसक मेमोरीसँ कोना अलग अछि?",
+    "response": "क्लाउड स्टोरेज एक प्रकारक डिजिटल भण्डार छी जेकरा कम्प्युटर, मोबाइल फोन आ अन्य उपकरण सभमे रहैत होएत अछि । एहिमे हार्ड ड्राइव या मोन्टेर्ड डिस्कके स्थान पर संगणन सेवा प्रदान करैक लेल प्रयोगशाला वा सर्वर केन्द्रमे भंडारित कएल जाइत अछि । इतिहास \nई प्रविधि १९६० दशकमे विकसित भेल छल । पहिल बेर ओकर नाम \"फ्ल्याय डायनेमिक्स\" छल । फ्ल्याय डायनेमिक्सक विकास जे.एम. वेल्स आर एस.जे. ब्लेयरद्वारा कएल गेल छल ।"
+  }
+]

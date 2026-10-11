@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "QA",
+    "prompt": "मिथिला क्षेत्र कतऽ अछि?",
+    "response": "दक्षिण बिहार आ नेपालक सीमापर मिथिला क्षेत्र अछि। एहिमे दरभंगा, मधुबनी, सहरसा, समस्तीपुर, मधुबनी, जनकपुर तथा सल्यान जिला शामिल अछि।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 2,
+    "category": "QA",
+    "prompt": "विद्यापति के छलथि?",
+    "response": "विद्यापति मिथिलाक महान कवि छलाह। ओ चौदहम शताब्दीमे भेलाह आ मैथिलीमे रचना खूब कएलाह। हुनकर रचना संस्कृत साहित्यकें समृद्ध कएलक।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 3,
+    "category": "QA",
+    "prompt": "छठ पूजा कखन होइत अछि?",
+    "response": "छठ पूजा कार्तिक मासमे होइत अछि — साती चकेबाक दिन। एहिमे सूर्यकेँ अर्घ्य देल जाइत अछि। सुहागिन महिला सब घाटपर उठैत अछि आ दूध, गुड़ आ लड्डू चढ़बैत अछि।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 4,
+    "category": "QA",
+    "prompt": "मखाना कतय होइत अछि?",
+    "response": "मिथिला क्षेत्रमे, विशेषकर दरभंगा आ मधुबनी जिलाक।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 5,
+    "category": "QA",
+    "prompt": "Tell me about Chhath Puja.",
+    "response": "चैत्र माहमे सूर्य देवताक पूजा होइत अछि। व्रती सब ठंडा साँस लिअ आ अर्घ्य दैत छथि। सूर्यकेँ नइ बिछाएल जाइत अछि। एहि पर्वमे परिवारक सदस्य सब मिलिकए पूजा करैत छथि।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 6,
+    "category": "Translation",
+    "prompt": "[eng] I will never forget this day. [maithili]",
+    "response": "हम ई दिन कहियो नइ भुलाएब।\r\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 7,
+    "category": "Translation",
+    "prompt": "[eng] The cow gives milk every morning. [maithili]",
+    "response": "गाछ हर भिनसर दूध दैत अछि।\r\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 8,
+    "category": "Translation",
+    "prompt": "[eng] Never lie to your parents. [maithili]",
+    "response": "अपन माए-बाबूजीसँ कहियो झूठ नइ बाजू।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 9,
+    "category": "Translation",
+    "prompt": "[maithili] हम काल्हि बजार जाएब। [eng]",
+    "response": "I will go to the market tomorrow.\r\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 10,
+    "category": "Translation",
+    "prompt": "[maithili] हमर बाबूजी किसान छथि। [eng]",
+    "response": "My father is a farmer.\r\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 11,
+    "category": "Instruction",
+    "prompt": "एहि वाक्यकेँ सरल बनाउ: वर्षाऋतुमे नदीमे जलस्तर अत्यधिक वृद्धि पाबैत अछि।",
+    "response": "बर्खाक समयमे नदीमे पानि बहुत बढ़ि जाइत अछि।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 12,
+    "category": "Instruction",
+    "prompt": "Correct this: मैं कल बाजार जाऊंगा।",
+    "response": "हम काल्हि बाजार जाइब।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 13,
+    "category": "Instruction",
+    "prompt": "एहि notification कें मैथिलीमे बुझाउ: Your order has been shipped and will arrive in 3 days.",
+    "response": "अहाँक order पठा देल गेल अछि आ ओ तीन दिनमे पहुँचत।\r\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 14,
+    "category": "Instruction",
+    "prompt": "१ लाइनमे बताउ — What is democracy?",
+    "response": "राजतंत्रमे सरकार जनताद्वारा चुनल जाइत अछि आ जनताक लेल काज करैत अछि।",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 15,
+    "category": "Instruction",
+    "prompt": "Correct this: वह आज नहीं आएगा।",
+    "response": "ओ आइ नइ अओतै।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 16,
+    "category": "Conversational",
+    "prompt": "हमरा बुखार अछि, की करी?",
+    "response": "माथपर ठंढा पानिक कुल्ला करू आ भारी भोजन नइ करू। डॉक्टरकेँ बिसरि कऽ देखाउ।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 17,
+    "category": "Conversational",
+    "prompt": "हमर बच्चा राति भरि कानैत अछि, की करी?",
+    "response": "पहिने झूला कऽ कऽ बैसा लिअ जाहिसँ ओ नीक जल्दी आबैत अछि। जे भोरमे उठैत अछि तँ ओकर छोट-छोट मोनमे सलाह देब सीखू।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 18,
+    "category": "Conversational",
+    "prompt": "गाममे रहब नीक की शहरमे?",
+    "response": "जे गाम अछि ओतए सम्पर्क, परिवार आ सहयोग जेनाँ होइत अछि। घर छोट आ सस्ता रहैत अछि। शहरमे बेर-बेरी मेहमान आ फेरसँ चलय पड़ैत अछि।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 19,
+    "category": "Conversational",
+    "prompt": "हम बहुत उदास छी, की करी?",
+    "response": "किछु नइ, आराम करू। फोनसँ दूर रहु आ कोनो प्रॉजेक्ट देखू। समय बीतय लेल सब काज अएलह।\n",
+    "model": "maithili-v4.0"
+  },
+  {
+    "id": 20,
+    "category": "Conversational",
+    "prompt": "मोबाइल चार्ज नइ होइत अछि, की करी?",
+    "response": "पहिने फोनक पॉवर बटन आ कस्टम जांच करू। जँ सेहो नइ होएत तँ सर्विस सेंटर जाउ।\n",
+    "model": "maithili-v4.0"
+  }
+]

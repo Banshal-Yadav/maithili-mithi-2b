@@ -1,0 +1,61 @@
+{"text":"<start_of_turn>user\nStorage almost full. Free up space.\n<end_of_turn>\n<start_of_turn>model\nफोनमे जगह कम भए गेल अछि। पुरान फोटो आ ऐप हटाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nPayment failed. Please try again.\n<end_of_turn>\n<start_of_turn>model\nभुगतान नहि भेल। बैलेंस जाँचू आ फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour OTP has expired.\n<end_of_turn>\n<start_of_turn>model\nOTP पुरान भए गेल। Resend OTP करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nLogin error. Invalid credentials.\n<end_of_turn>\n<start_of_turn>model\nLogin नहि भेल। Email वा password गलत अछि। फेरसँ जाँचू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nNo internet connection.\n<end_of_turn>\n<start_of_turn>model\nइंटरनेट नहि अछि। WiFi वा mobile data चालू करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nUpdate required to continue.\n<end_of_turn>\n<start_of_turn>model\nआगू बढ़बाक लेल app update जरूरी अछि। Play Store मे जाकए update करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nSession expired. Please log in again.\n<end_of_turn>\n<start_of_turn>model\nSession खतम भए गेल। फेरसँ login करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई संदेश की कहैत अछि? — Your subscription has expired.\n<end_of_turn>\n<start_of_turn>model\nSubscription खतम भए गेल अछि। नवीकरण करू नहि तँ सेवा बंद भए जाएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई error कियैक आबि रहल अछि? — 404 Not Found\n<end_of_turn>\n<start_of_turn>model\nजे page खोलए चाहैत छलहुँ से भेटल नहि। link गलत वा page हटा देल गेल।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nकी समस्या भेल अछि? — Account suspended.\n<end_of_turn>\n<start_of_turn>model\nखाता बंद कए देल गेल अछि। Customer Support सँ संपर्क करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nएकरा ठीक कएबाक तरीका बताउ — Battery low\n<end_of_turn>\n<start_of_turn>model\nचार्जरसँ जोड़ू। तुरंत नहि भए सकए तँ brightness कम करू आ background app बंद करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n1 लाइनमे बताउ — Camera permission denied\n<end_of_turn>\n<start_of_turn>model\nSettings मे जाकए camera permission दिअ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nछोट उत्तर दियौ — Download failed\n<end_of_turn>\n<start_of_turn>model\nइंटरनेट जाँचू आ फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — Invalid OTP\n<end_of_turn>\n<start_of_turn>model\nResend OTP करू आ ध्यानसँ नया code लिखू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nTransaction limit exceeded. Try again tomorrow.\n<end_of_turn>\n<start_of_turn>model\nआजुक transaction limit भरि गेल। काल्हि फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई संदेशक मतलब की? — Insufficient balance\n<end_of_turn>\n<start_of_turn>model\nखातामे पैसा कम अछि। पहिने पैसा जमा करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nNew device login detected on your account.\n<end_of_turn>\n<start_of_turn>model\nकोनो नया device सँ login भेल। जँ अहाँ नहि केलहुँ तँ तुरंत password बदलू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nकी समस्या भेल अछि? — Server error 500\n<end_of_turn>\n<start_of_turn>model\nServer मे समस्या अछि। थोड़े काल बाद फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nWeak password. Please choose a stronger one.\n<end_of_turn>\n<start_of_turn>model\nPassword कमजोर अछि। अक्षर, संख्या आ चिन्ह मिलाकए मजबूत password बनाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n1 लाइनमे बताउ — Microphone access blocked\n<end_of_turn>\n<start_of_turn>model\nSettings मे जाकए microphone permission चालू करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour free trial has ended. Upgrade to continue.\n<end_of_turn>\n<start_of_turn>model\nFree trial खतम भए गेल अछि। सेवा जारी रखबाक लेल upgrade करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nएकरा ठीक कएबाक तरीका बताउ — App not responding\n<end_of_turn>\n<start_of_turn>model\nApp बंद कए फेर खोलू। नहि भेल तँ phone restart करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nFile not found.\n<end_of_turn>\n<start_of_turn>model\nFaइल नहि भेटल। शायद हटा देल गेल वा नाम बदलि गेल।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nछोट उत्तर दियौ — Location permission required\n<end_of_turn>\n<start_of_turn>model\nSettings मे जाकए location permission दिअ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour card has been declined.\n<end_of_turn>\n<start_of_turn>model\nCard सँ payment नहि भेल। बैंक सँ संपर्क करू वा दोसर card उपयोग करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — Email already registered\n<end_of_turn>\n<start_of_turn>model\nLogin करू वा दोसर email दिअ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nToo many failed attempts. Account locked.\n<end_of_turn>\n<start_of_turn>model\nबहुत बेर गलत password देलासँ account lock भए गेल। थोड़े काल बाद वा Forgot Password सँ reset करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई error कियैक आबि रहल अछि? — Connection timed out\n<end_of_turn>\n<start_of_turn>model\nServer जवाब देबामे बहुत देरी केलक। इंटरनेट जाँचू आ फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour subscription will expire in 3 days.\n<end_of_turn>\n<start_of_turn>model\nSubscription ३ दिनमे खतम होएत। आबे renew करू नहि तँ access बंद भए जाएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n1 लाइनमे बताउ — Backup failed\n<end_of_turn>\n<start_of_turn>model\nStorage आ internet जाँचू आ फेर backup करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nRefund initiated. Amount will be credited in 3-7 days.\n<end_of_turn>\n<start_of_turn>model\nRefund शुरू भए गेल अछि। ३ सँ ७ दिनमे पैसा खातामे आएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nकी समस्या भेल अछि? — GPS signal lost\n<end_of_turn>\n<start_of_turn>model\nLocation signal नहि भेटि रहल। खुजल जगहमे जाउ आ GPS चालू करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nMaximum file size exceeded.\n<end_of_turn>\n<start_of_turn>model\nFile बहुत पैघ अछि। छोट file चुनू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nछोट उत्तर दियौ — Notifications disabled\n<end_of_turn>\n<start_of_turn>model\nSettings मे जाकए notifications चालू करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nVerification failed. Please try again.\n<end_of_turn>\n<start_of_turn>model\nSत्यापन नहि भेल। जानकारी फेरसँ जाँचू आ कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nएकरा ठीक कएबाक तरीका बताउ — Phone overheating\n<end_of_turn>\n<start_of_turn>model\nCharging बंद करू, background app बंद करू आ ठंडा जगहमे राखू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nPassword must be at least 8 characters.\n<end_of_turn>\n<start_of_turn>model\nPassword कमसँ कम ८ अक्षरक हेबाक चाही। आर पैघ password बनाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — Coupon expired\n<end_of_turn>\n<start_of_turn>model\nदोसर coupon खोजू वा बिना coupon भुगतान करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nData sync failed.\n<end_of_turn>\n<start_of_turn>model\nData update नहि भेल। Internet जाँचू आ app फेरसँ खोलू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई संदेश की कहैत अछि? — Your account does not exist.\n<end_of_turn>\n<start_of_turn>model\nएहि email वा number सँ कोनो account नहि अछि। पहिने register करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nAccess denied.\n<end_of_turn>\n<start_of_turn>model\nएहि सुविधाक अनुमति नहि अछि। Admin सँ संपर्क करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n1 लाइनमे बताउ — Fingerprint not recognized\n<end_of_turn>\n<start_of_turn>model\nउँगरी साफ करू आ फेर कोशिश करू वा password सँ login करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nOrder cancelled. Refund will be processed.\n<end_of_turn>\n<start_of_turn>model\nOrder रद्द भए गेल। Refund कुछ दिनमे खातामे आएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nकी समस्या भेल अछि? — SIM card not detected\n<end_of_turn>\n<start_of_turn>model\nPhone SIM नहि पहचानि रहल। SIM निकालू, साफ करू आ फेरसँ लगाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nLink expired. Request a new one.\n<end_of_turn>\n<start_of_turn>model\nLink पुरान भए गेल। नया link लेल फेरसँ request करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nछोट उत्तर दियौ — Two-factor authentication required\n<end_of_turn>\n<start_of_turn>model\nPhone पर आएल OTP लिखू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour message could not be delivered.\n<end_of_turn>\n<start_of_turn>model\nसंदेश नहि पहुँचल। Internet जाँचू आ फेर पठाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nएकरा ठीक कएबाक तरीका बताउ — Screen not responding\n<end_of_turn>\n<start_of_turn>model\nPhone restart करू। नहि भेल तँ service center लए जाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nPayment successful. Receipt sent to your email.\n<end_of_turn>\n<start_of_turn>model\nभुगतान भए गेल। Receipt email पर पठा देल गेल अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — App crash detected\n<end_of_turn>\n<start_of_turn>model\nPhone restart करू आ app फेरसँ खोलू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nThis feature is not available in your region.\n<end_of_turn>\n<start_of_turn>model\nई सुविधा अहाँक क्षेत्रमे उपलब्ध नहि अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nई error कियैक आबि रहल अछि? — 403 Forbidden\n<end_of_turn>\n<start_of_turn>model\nएहि page कें देखबाक अनुमति नहि अछि। Login करू वा admin सँ पूछू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nPhone number already in use.\n<end_of_turn>\n<start_of_turn>model\nई number पहिनहिसँ कोनो account मे अछि। Login करू वा दोसर number दिअ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n1 लाइनमे बताउ — Card expired\n<end_of_turn>\n<start_of_turn>model\nNया card उपयोग करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nUnable to connect to server. Check your connection.\n<end_of_turn>\n<start_of_turn>model\nServer सँ संपर्क नहि भए रहल। Internet जाँचू आ थोड़े काल बाद फेर कोशिश करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nछोट उत्तर दियौ — Account already exists\n<end_of_turn>\n<start_of_turn>model\nLogin पर जाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nNew update available. Install now for better performance.\n<end_of_turn>\n<start_of_turn>model\nNया update आएल अछि। Install करू — app बेसी तेज आ बेहतर होएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nएकरा ठीक कएबाक तरीका बताउ — Keyboard not appearing\n<end_of_turn>\n<start_of_turn>model\nApp बंद कए फेर खोलू। नहि भेल तँ phone restart करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nStorage full. Cannot take photos.\n<end_of_turn>\n<start_of_turn>model\nStorage भरि गेल। Google Photos मे backup करू आ phone सँ पुरान फोटो हटाउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nसिर्फ की करबाक चाही बताउ — Mobile number not registered\n<end_of_turn>\n<start_of_turn>model\nपहिने Register करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\nYour account has been verified successfully.\n<end_of_turn>\n<start_of_turn>model\nAccount सत्यापन भए गेल। आब सब सुविधा उपयोग कए सकैत छी।\n<end_of_turn>"}

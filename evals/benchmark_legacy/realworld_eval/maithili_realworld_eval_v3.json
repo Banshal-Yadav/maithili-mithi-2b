@@ -1,0 +1,102 @@
+[
+    {
+        "category": "System Alerts",
+        "name": "Google Drive storage full",
+        "prompt": "System Alert: Your Google Drive storage is 95% full. Because you are out of storage, you cannot upload new files to Drive, back up photos or videos to Google Photos. You have run out of your 15 GB initial free storage. Delete old files to recover your system."
+    },
+    {
+        "category": "System Alerts",
+        "name": "Payment failed",
+        "prompt": "Your recent payment of ₹1500 for the premium subscription has failed due to insufficient funds. Please update your payment method or add funds to your account immediately to avoid service interruption."
+    },
+    {
+        "category": "System Alerts",
+        "name": "Login error",
+        "prompt": "We detected an unusual login attempt from an unrecognized device in a different country. If this wasn't you, please reset your password immediately and enable two-factor authentication."
+    },
+    {
+        "category": "System Alerts",
+        "name": "Battery critically low",
+        "prompt": "Your device battery is severely degraded and running critically low at 5%. Please plug in your charger immediately to prevent unsaved data loss and system shutdown."
+    },
+    {
+        "category": "System Alerts",
+        "name": "Subscription expired",
+        "prompt": "Your annual antivirus subscription has expired today. Your computer is currently vulnerable to threats. Click renew now to stay protected and get a 20% discount."
+    },
+    {
+        "category": "Technical Vocabulary",
+        "name": "Download failed",
+        "prompt": "सिर्फ की करबाक चाही बताउ — The file download failed because the network connection was lost."
+    },
+    {
+        "category": "Technical Vocabulary",
+        "name": "Upload quota exceeded",
+        "prompt": "सिर्फ की करबाक चाही बताउ — You cannot upload this video. Your daily upload quota of 2GB has been exceeded. Try again tomorrow."
+    },
+    {
+        "category": "Technical Vocabulary",
+        "name": "Update required",
+        "prompt": "सूची बनाउ — A new software update is available for your phone. It includes security fixes and performance improvements. Please install it now over Wi-Fi."
+    },
+    {
+        "category": "Technical Vocabulary",
+        "name": "Account suspended",
+        "prompt": "छोट उत्तर दियौ — Your account has been temporarily suspended due to multiple failed login attempts. Contact support to verify your identity."
+    },
+    {
+        "category": "Mixed Instructions",
+        "name": "Summarize and give steps",
+        "prompt": "Here is an English alert: 'Your laptop is overheating. Save your work and close heavy applications.' Summarize the issue in Maithili and provide the steps to fix it."
+    },
+    {
+        "category": "Mixed Instructions",
+        "name": "Translate and simplify",
+        "prompt": "Translate this to Maithili and make it very simple for an older person to understand: 'To enable Bluetooth, navigate to Settings, select Connections, toggle Bluetooth on, and pair your headphones.'"
+    },
+    {
+        "category": "Mixed Instructions",
+        "name": "Explain in 1 sentence",
+        "prompt": "एहि मैसेज कें मात्र १ लाइनमे मैथिलीमे बुझाउ: 'The server is currently undergoing scheduled maintenance for 2 hours. You will not be able to access your dashboard during this time.'"
+    },
+    {
+        "category": "Mixed Instructions",
+        "name": "Explain in JSON format",
+        "prompt": "Please extract the key details from this text and return them in JSON format using Maithili keys and values: 'The flight AI-402 from Delhi to Patna is delayed by 45 minutes.' The keys should be: 'उड़ान', 'रूट', 'स्थिति'."
+    },
+    {
+        "category": "Normal Conversation",
+        "name": "Greeting",
+        "prompt": "प्रणाम! अहाँक दिन कोना रहल अछि? हमरा किछु मदद चाही।"
+    },
+    {
+        "category": "Normal Conversation",
+        "name": "Short cultural question",
+        "prompt": "छोट उत्तर दियौ — मिथिला पेंटिंग की थिक आ ई किएक प्रसिद्ध अछि?"
+    },
+    {
+        "category": "Normal Conversation",
+        "name": "Simple explanation task",
+        "prompt": "हमरा आसान भाषामे बुझाउ जे WhatsApp का उपयोग कोना कयल जाइत अछि?"
+    },
+    {
+        "category": "General Knowledge",
+        "name": "Black hole summary",
+        "prompt": "ब्लैक होल (Black Hole) की थिक? एकरा छोटमें बुझाउ।"
+    },
+    {
+        "category": "General Knowledge",
+        "name": "Explain database migration",
+        "prompt": "Here is an English concept: 'Database migration is the process of moving data from one platform to another.' Explain this concept in Maithili using a simple real-life analogy."
+    },
+    {
+        "category": "General Knowledge",
+        "name": "Why backup important",
+        "prompt": "डेटा बैकअप (Data Backup) राखब किएक जरूरी अछि? ३ टा कारण बताउ।"
+    },
+    {
+        "category": "General Knowledge",
+        "name": "What is cloud storage",
+        "prompt": "क्लाउड स्टोरेज (Cloud Storage) की थिक? ई हमरा डिवाइसक मेमोरीसँ कोना अलग अछि?"
+    }
+]

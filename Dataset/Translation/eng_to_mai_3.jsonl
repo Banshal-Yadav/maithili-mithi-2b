@@ -1,0 +1,50 @@
+{"text":"<start_of_turn>user\n[eng] The buffalo is drinking water from the pond. [maithili]\n<end_of_turn>\n<start_of_turn>model\nभैंस पोखरिसँ पानि पीबि रहल अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The horse runs very fast. [maithili]\n<end_of_turn>\n<start_of_turn>model\nघोड़ा बड्ड तेज दौड़ैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The fish lives in water. [maithili]\n<end_of_turn>\n<start_of_turn>model\nमाछ पानिमे रहैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The elephant is very big and strong. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहाथी बड्ड पैघ आ ताकतवर होइत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The cat is sitting on the roof. [maithili]\n<end_of_turn>\n<start_of_turn>model\nबिलाइ छतपर बैसल अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Our duck lays eggs every day. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमर हँस रोज अंडा दैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The farmer ploughs his field early in the morning. [maithili]\n<end_of_turn>\n<start_of_turn>model\nकिसान भिनसरे अपन खेत जोतैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] This mango is very sweet. [maithili]\n<end_of_turn>\n<start_of_turn>model\nई आम बड्ड मीठ अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The lotus blooms in the pond. [maithili]\n<end_of_turn>\n<start_of_turn>model\nकमल पोखरिमे फुलाइत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Makhana grows in the ponds of Mithila. [maithili]\n<end_of_turn>\n<start_of_turn>model\nमखाना मिथिलाक पोखरिमे उगैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] My elder brother works in the city. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमर पैघ भाइ शहरमे काज करैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Grandmother tells stories every night. [maithili]\n<end_of_turn>\n<start_of_turn>model\nनानी हर राति कथा सुनबैत छथि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The well in our village has very sweet water. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमर गामक कुआँक पानि बड्ड मीठ अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Chhath Puja is the biggest festival of Mithila. [maithili]\n<end_of_turn>\n<start_of_turn>model\nछठ पूजा मिथिलाक सबसँ पैघ पर्व थिक।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Vidyapati was a great poet of Maithili language. [maithili]\n<end_of_turn>\n<start_of_turn>model\nविद्यापति मैथिली भाषाक महान कवि छलाह।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Madhubani painting is famous all over the world. [maithili]\n<end_of_turn>\n<start_of_turn>model\nमधुबनी चित्रकला पूरा दुनियामे प्रसिद्ध अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The Ganges river flows to the south of Mithila. [maithili]\n<end_of_turn>\n<start_of_turn>model\nगंगा नदी मिथिलाक दक्षिणमे बहैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Do not waste food. [maithili]\n<end_of_turn>\n<start_of_turn>model\nखाना बर्बाद नइ करबाक चाही।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Wash your hands before eating. [maithili]\n<end_of_turn>\n<start_of_turn>model\nखेबासँ पहिने हाथ धोउ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] The teacher is explaining the lesson. [maithili]\n<end_of_turn>\n<start_of_turn>model\nशिक्षक पाठ समझा रहल छथि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] I could not sleep the whole night. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहम राति भरि सुति नइ सकलहुँ।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] Please do not make noise here. [maithili]\n<end_of_turn>\n<start_of_turn>model\nएतए शोर नइ करू।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] My village is near the river. [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमर गाम नदीक लग अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] He did not eat anything since morning. [maithili]\n<end_of_turn>\n<start_of_turn>model\nओ भिनसरसँ किछु नइ खेलक।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[eng] This work cannot be done alone. [maithili]\n<end_of_turn>\n<start_of_turn>model\nई काज अकेले नइ होएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] माछ पानिमे रहैत अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nThe fish lives in water.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] भैंस पोखरिसँ पानि पीबि रहल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nThe buffalo is drinking water from the pond.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] किसान भिनसरे अपन खेत जोतैत अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nThe farmer ploughs his field early in the morning.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] मखाना मिथिलाक पोखरिमे उगैत अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nMakhana grows in the ponds of Mithila.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] छठ पूजा मिथिलाक सबसँ पैघ पर्व थिक। [eng]\n<end_of_turn>\n<start_of_turn>model\nChhath Puja is the biggest festival of Mithila.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] विद्यापति मैथिली भाषाक महान कवि छलाह। [eng]\n<end_of_turn>\n<start_of_turn>model\nVidyapati was a great poet of the Maithili language.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] मधुबनी चित्रकला पूरा दुनियामे प्रसिद्ध अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nMadhubani painting is famous all over the world.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] गंगा नदी मिथिलाक दक्षिणमे बहैत अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nThe Ganges river flows to the south of Mithila.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] ओ भिनसरसँ किछु नइ खेलक। [eng]\n<end_of_turn>\n<start_of_turn>model\nHe did not eat anything since morning.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] नानी हर राति कथा सुनबैत छथि। [eng]\n<end_of_turn>\n<start_of_turn>model\nGrandmother tells stories every night.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] हमरा नींद नइ आबि रहल अछि। [eng]\n<end_of_turn>\n<start_of_turn>model\nI am not able to sleep.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] काल्हि स्कूल बंद रहत। [eng]\n<end_of_turn>\n<start_of_turn>model\nThe school will be closed tomorrow.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[maithili] खेबासँ पहिने हाथ धोउ। [eng]\n<end_of_turn>\n<start_of_turn>model\nWash your hands before eating.\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] भैंस तालाब से पानी पी रही है। [maithili]\n<end_of_turn>\n<start_of_turn>model\nभैंस पोखरिसँ पानि पीबि रहल अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] किसान सुबह अपना खेत जोतता है। [maithili]\n<end_of_turn>\n<start_of_turn>model\nकिसान भिनसरे अपन खेत जोतैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] मुझे बहुत भूख लगी है। [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमरा बड्ड भूख लागल अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] वह आज बाजार नहीं गया। [maithili]\n<end_of_turn>\n<start_of_turn>model\nओ आइ बजार नइ गेल।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] बच्चा पानी में गिर गया। [maithili]\n<end_of_turn>\n<start_of_turn>model\nबच्चा पानिमे खसि पड़ल।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] दादी रोज रात को कहानी सुनाती हैं। [maithili]\n<end_of_turn>\n<start_of_turn>model\nनानी हर राति कथा सुनबैत छथि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] यह काम अकेले नहीं होगा। [maithili]\n<end_of_turn>\n<start_of_turn>model\nई काज अकेले नइ होएत।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] छठ पूजा मिथिला का सबसे बड़ा त्योहार है। [maithili]\n<end_of_turn>\n<start_of_turn>model\nछठ पूजा मिथिलाक सबसँ पैघ पर्व थिक।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] मखाना मिथिला के तालाबों में उगता है। [maithili]\n<end_of_turn>\n<start_of_turn>model\nमखाना मिथिलाक पोखरिमे उगैत अछि।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] विद्यापति मैथिली के महान कवि थे। [maithili]\n<end_of_turn>\n<start_of_turn>model\nविद्यापति मैथिली भाषाक महान कवि छलाह।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] खाना बर्बाद मत करो। [maithili]\n<end_of_turn>\n<start_of_turn>model\nखाना बर्बाद नइ करबाक चाही।\n<end_of_turn>"}
+{"text":"<start_of_turn>user\n[hindi] मेरी दादी बहुत अच्छी कहानियाँ सुनाती हैं। [maithili]\n<end_of_turn>\n<start_of_turn>model\nहमर नानी बड्ड नीक कथा सुनबैत छथि।\n<end_of_turn>"}
